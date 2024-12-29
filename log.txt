@@ -1,28 +1,1573 @@
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-.html - DELAY:19
-[['https://www.inmobusqueda.com.ar/ficha.verdestacado.php?id=486643&pos=1&ppv=37513&lp=0&hash=c4b829bb710681cb815bb554801d12fcfc31142c&rd=1116856375', '42  N°1027 e/ 15 y 16 > La Loma, La Plata (Casco Urbano), Pdo. de La Plata  ', 'Departamento en Alquiler ', 'Consulte', '42 Y 15.- OTROS (23/38)C/BALCON,(32/9RESERVADO),(35/20)C/COCHERA,(43/12RESERVADO),(57/10)MONOAMBIENTE,(59/19)C/BALCON Y C/COCHERA(ALQUILERES DE 1DORMITORIO...'], ['https://www.inmobusqueda.com.ar/ficha.verdestacado.php?id=488224&pos=2&ppv=37512&lp=0&hash=5cb8a7dd0d14dfb94136729c3bb0134f587ddd9d&rd=1708509474', '21  N°415 e/ 40 y 41 > La Loma, La Plata (Casco Urbano), Pdo. de La Plata  ', 'Departamento en Alquiler ', 'Consulte', '21 Y 40\r\nALQUILER DEPARTAMENTO Pb interno, living comedor, cocina, dormitorio con placars, baño y patio con lavadero, valor ($ CONSULTE) expensas bajas\r\n\r\n...'], ['https://www.inmobusqueda.com.ar/ficha.verdestacado.php?id=402215&pos=3&ppv=31750&lp=0&hash=e8ef87842327578fa558e722cc833ea1aa0b00bd&rd=1953761485', '1  N°1311 e/ 59 y 60 > La Plata (Casco Urbano), Pdo. de La Plata  ', 'Departamento en Alquiler ', '$280.000 ', 'MONICA BIANCHINI BIENES RAICES ALQUILA  DEPTO de 1 DORMITORIO, cocina separada, baño completo con bañera, ventilación natural y lavadero cubierto. El ambie...'], ['https://www.inmobusqueda.com.ar/ficha.verdestacado.php?id=489122&pos=4&ppv=30250&lp=0&hash=13c59833292541350a0971305ee45cb33be0d763&rd=2054014136', '53  e/ 11 y 12 > Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata  ', 'Monoambiente en Alquiler ', '$250.000 ', 'Monoambiente al frente. Cocina separada con Lavadero. Baño completo \r\nConsultas al 2215446919'], ['https://www.inmobusqueda.com.ar/ficha.verdestacado.php?id=488805&pos=5&ppv=29041&lp=0&hash=26f56602e19d4826a8fd9b6959aab9cd0d657367&rd=254028274', '7  N°336 e/ 38 y 39 > Barrio Norte, La Plata (Casco Urbano), Pdo. de La Plata  ', 'Departamento en Alquiler ', '$520.000 ', 'Departamento al frente de 1 dormitorio, posee calefaccion por radiadores, split frio calor en el estar comedor.\r\n1 dormitorio con placard completo y baño.\r...'], ['https://www.inmobusqueda.com.ar/ficha-480905', '8  e/ 42 y 43   ', 'Edificio en   La Plata (Casco Urbano), Pdo. de La Plata  ', 'Consulte', 'Waingortin Servicios Inmobiliarios ALQUILA !!\r\n\r\nImportante edificio de planta baja, mas 3 pisos y terraza. \r\n\r\nEn planta baja se encuentra un gran salón c...'], ['https://www.inmobusqueda.com.ar/ficha-488560', '32  N°24 e/ 163 y 164   ', 'Departamento en   Melchor Romero, Pdo. de La Plata  ', '$95.000  Expensas : $3000', 'Se alquila Departamento de un dormitorio en segundo piso por escalera dentro de complejo. \r\n(el complejo no posee el servicio de gas. El departamento no vi...'], ['https://www.inmobusqueda.com.ar/ficha-413969', '25 e/ 32 y 33 n 42 Dto. 3    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$120.000  Expensas : $13000', 'Piso en alquiler de 160 m2 cubiertos, 3 dormitorios (uno en suite), 2 baños, cocina con muebles bajo y sobre mesada, living-comedor, lavadero, balc&...'], ['https://www.inmobusqueda.com.ar/ficha-482044', '608  N°873 e/ 12 y 13   ', 'Departamento en   Aeropuerto, Villa Elvira, Pdo. de La Plata  ', '$150.000  Expensas : $6500', 'MONOAMBIENTE EN ALQUILER, POSEE COCINA Y BAÑO. TERRAZA COMPARTIDA.\r\nNO SE PERMITEN MASCOTAS.'], ['https://www.inmobusqueda.com.ar/ficha-484082', '10  N°1521 e/ 63 y 64   ', 'Departamento en   Zona Universidades Centro, La Plata (Casco Urbano), Pdo. de La Plata  ', '$150.000  Expensas : $12000', 'Planta baja frente, ambiente chico con cocina incorporada baño.\r\n\r\nPRECIO: $ 150.000 + absa , contrato por 2 años, ajuste trimestral por I.C.L.\r\n\r\nGASTOS Y...'], ['https://www.inmobusqueda.com.ar/ficha-485316', '1  y 75    ', 'Departamento en   Villa Elvira, Pdo. de La Plata  ', '$160.000 ', 'MONOAMBIENTE EN ALQUILER\r\n\r\n ubicado en AV. 1 Y 75\r\n\r\n25 mts2 aprox.\r\n\r\n espacio amplio \r\n cocina con bar...'], ['https://www.inmobusqueda.com.ar/ficha-486932', '26  e/ 34 y 35   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$160.000 ', '26 e/ 34 y 35 monoambiente a la calle en planta baja. Totalmente independiente.'], ['https://www.inmobusqueda.com.ar/ficha-485604', '3  N°567 e/ 43 y 44   ', 'Departamento en   Terminal de Omnibus, La Plata (Casco Urbano), Pdo. de La Plata  ', '$160.000  Expensas : $9000', 'Departamento planta baja interno, compuesto de: cocina comedor, mesada con pileta, mueble bajo mesada, artefacto de cocina, termotanque, dormitorio, baño, ...'], ['https://www.inmobusqueda.com.ar/ficha-312380', '607  e/ 11 bis y 12   ', 'Departamento en   Aeropuerto, Villa Elvira, Pdo. de La Plata  ', '$160.000 ', 'Departamento interno, planta baja, un dormitorio, cocina comedor y patio. Servicios compartidos.-'], ['https://www.inmobusqueda.com.ar/ficha-488409', '58  e/ 7 y 8   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$170.000  Expensas : $25000', 'DEPARTAMENTO MONOAMBIENTE EN ALQUILER EXCELENTE UBICACIÓN ZONA UNIVERSITARIA'], ['https://www.inmobusqueda.com.ar/ficha-465642', '115  y 92    ', 'PH en   Aeropuerto, Villa Elvira, Pdo. de La Plata  ', '$170.000 ', 'Departamento A ESTRENAR  PA de 2 Dormit con cocina comedor integral, baño completo, PB patio común.'], ['https://www.inmobusqueda.com.ar/ficha-486685', '31  N°873 e/ 49 y 50   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$170.000 ', 'MONOAMBIENTE UBICADO EN CALLE 131 E/ 49 Y 50. PLANTA BAJA Y AL FRENTE.-\r\nAMBIENTE con mesada, bacha y toilette.18 METROS CUBIERTOS.\r\nSobre Avenida 131 de...'], ['https://www.inmobusqueda.com.ar/ficha-393989', '(e) 117 Nro. 1733 entre 67 y 68 (pb° A)    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$180.000 ', 'Monoambiente en planta baja.\nCuenta con estar comedor, cocina y baño.\nSin expensas. ABSA $1.000 aproximadamente.\nCONTRATO POR 2 AÑOS CON AJUS...'], ['https://www.inmobusqueda.com.ar/ficha-465694', '29 n° 1233 Depto 115  e/  57 y 58    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$180.000  Expensas : $15000', 'MONOAMBIENTE. MUY BUEN ESTADO. COCINA CON SPAR Y MUEBLES SOBRE Y BAJO MESADA. TERRAZA COMÚN. ASENSOR. SISTEMA DE CLIMATIZACIÓN POR TIRO BALAN...'], ['https://www.inmobusqueda.com.ar/ficha-479405', '78  bis  N°435 e/ 3 y 4   ', 'Departamento en   Barrio Monasterio, Villa Elvira, Pdo. de La Plata  ', '$180.000  Expensas : $12000', 'Monoambiente amplio, muy luminoso. Primer piso por escalera.']]
+Iniciando [key=1]
+Procesando Inmobusquedas...
+[BOX 0] [10]
+Departamento en Alquiler
+42 N°1027 e/ 15 y 16 > La Loma, La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+42 Y 15.- OTROS (23/38)C/BALCON,(32/9RESERVADO),(35/20)C/COCHERA,(43/12RESERVADO),(57/10)MONOAMBIENTE,(59/19)C/BALCON Y C/COCHERA(ALQUILERES DE 1DORMITORIO...
+1 Dorm
+44 mts
+Garage Optativa
+IB-486643
+27-12-2024
+Anuncio promocionado
 
+--------------------------
 
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-2.html - DELAY:10
+[BOX 1] [9]
+Departamento en Alquiler
+1 N°1311 e/ 59 y 60 > La Plata (Casco Urbano), Pdo. de La Plata
+$280.000
+MONICA BIANCHINI BIENES RAICES ALQUILA DEPTO de 1 DORMITORIO, cocina separada, baño completo con bañera, ventilación natural y lavadero cubierto. El ambie...
+1 Dorm
+35 mts
+IB-402215
+28-11-2024
+Anuncio promocionado
 
+--------------------------
 
-[['https://www.inmobusqueda.com.ar/ficha-114104', '63  y 125    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$180.000 ', 'MODESTO, IDEAL ESTUDIANTE! MONOAMBIENTE SIN EXPENSAS! CERCANO A UNIVERSIDADES!!!'], ['https://www.inmobusqueda.com.ar/ficha-481676', '38 bis  e/ 136 y 137   ', 'Departamento en   San Carlos, Pdo. de La Plata  ', '$180.000 ', 'Depto humilde sobre 38bis, cocina/comedor, habitación (no tiene ventanas el dormitorio), baño con entrada de auto al frente y lavadero afuera. Sin expensas...'], ['https://www.inmobusqueda.com.ar/ficha-486815', '64  N°277 e/ 1 y 115   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$190.000 ', 'Monoambiente en 3er piso por escalera con baño completo. Alq mas exp.'], ['https://www.inmobusqueda.com.ar/ficha-481534', '9  N°1057 e/ 54 y 55   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$190.000  Expensas : $20000', 'monoambiente, contrafrente luminoso con placard, cocina independiente con artefacto de cocina y termotanque. baño'], ['https://www.inmobusqueda.com.ar/ficha-488627', '122  y 42    ', 'Departamento en   Hipodromo, La Plata (Casco Urbano), Pdo. de La Plata  ', '$190.000  Expensas : $140000', 'DEPARTAMENTO EN ALQUILER, ZONA HIPODROMO, DE 1  DORMITORIO, BAÑO COMPLETO, COCINA INTEGRADA AL LIVING COMEDOR, PATIO Y FONDO VERDE. \r\nEN LAS EXPENSAS ESTAN...'], ['https://www.inmobusqueda.com.ar/ficha-368058', '10  e/ 70 y 71   ', 'Departamento en   Parque Saavedra, La Plata (Casco Urbano), Pdo. de La Plata  ', '$190.000  Expensas : $35000', '(10 e 70 y 71) Monoambiente amplio en 3° piso por escalera. Posibilidad de alquiler con recibos de sueldos. SIN garantía propietaria. No se cobra depósito....'], ['https://www.inmobusqueda.com.ar/ficha-487963', '5  e/ 43 y 44   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$200.000 ', 'MONOAMBIENTE EN ALQUILER\r\n\r\n ubicado en 5 E/ 43 Y 44\r\n\r\n25 mts2 aprox.\r\n\r\n Cocina separada\r\n( conexión para lavarropas)\r\n...'], ['https://www.inmobusqueda.com.ar/ficha-348058', '57 n° 378 Piso 2 Depto 2 e/ 2 y 3    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$200.000  Expensas : $17000', 'Departamento en buen estado. Ambientes amplios y luminosos.\n\nAlberto Dacal Propiedades: Código de la propiedad 4572 Argentina | G.B.A. Zona Sur | La...'], ['https://www.inmobusqueda.com.ar/ficha-381855', '62 Nro. 322 Entre 1 y 2 (1°3)    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$200.000  Expensas : $50000', 'Monoambiente en primer piso por escalera.\nCuenta con estar comedor con placard, cocina sectorizada con heladera y baño.\nExpensas aproximadas $,...'], ['https://www.inmobusqueda.com.ar/ficha-460589', '62 Nro. 322 Entre 1 y 2 (torre ii 3°2)    ', 'Departamento en   San Carlos, Pdo. de La Plata  ', '$200.000  Expensas : $48000', 'Monoambiente dividido, tercer piso por escalera.\nCuenta con cocina comedor y una división para el dormitorio con placard y baño.\nExpensas apr...'], ['https://www.inmobusqueda.com.ar/ficha-486196', '70 n° 177 e/ 121 y 122 piso 2 dto a    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$200.000  Expensas : $8000', 'Monoambiente dividido con un dorm, al frente 2do piso por escalera.\n\nAlberto Dacal Propiedades: Código de la propiedad  Argentina | G.B.A. Zona...'], ['https://www.inmobusqueda.com.ar/ficha-481342', '8  e/ 57 y 58   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$200.000  Expensas : $25000', 'Departamento en alquiler en La Plata, casco urbano. Estado Bueno, ideal estudiantes.'], ['https://www.inmobusqueda.com.ar/ficha-349717', '64  e/ 1 y 115   ', 'Departamento en   Mondongo, La Plata (Casco Urbano), Pdo. de La Plata  ', '$200.000  Expensas : $7000', '(64 e 1 y 115) Monoambiente en primer piso por escalera. Cocina integrada. Baño completo. Bajas expensas: $7.000 e incluyen absa. Posibilidad de alquiler c...'], ['https://www.inmobusqueda.com.ar/ficha-468969', '419  y 144    ', 'Departamento en   Arturo Segui, Pdo. de La Plata  ', '$200.000 ', 'Departamento en alquiler, comodidades: 1 dormitorio, cocina comedor, baño completo, lavadero, patio.'], ['https://www.inmobusqueda.com.ar/ficha-483942', '31  y 66    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$200.000 ', 'MONOAMBIENTE EN ALQUILER\r\n\r\n ubicado en 31 y 66\r\n\r\n30 mts2 aprox.\r\n\r\n amplio y luminoso\r\n conexión p/lava...']]
-[] 0.00%
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-3.html - DELAY:16
-[['https://www.inmobusqueda.com.ar/ficha-488970', '2  N°1290 e/ 58 y 59   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$200.000  Expensas : $60000', 'Monoambiente con balcón Zona universitaria\r\n\r\nEste monoambiente luminoso y funcional cuenta con: cocina integrada con muebles bajo mesada, conexión para ...'], ['https://www.inmobusqueda.com.ar/ficha-484146', '1  e/ 33 y 34   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$210.000 ', 'Monoambiente 1er piso por escalera con cocina incorporada y baño. Se entrega con placard. Cerca de la estacion de trenes, del centro de la ciudad de La Pla...'], ['https://www.inmobusqueda.com.ar/ficha-484739', '1  e/ 46 y 47   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$210.000 ', 'ALQUILAMOS: 1 e/ 46 y 47:Departamento monoambiente con gran vista. Cocina separada con muebles, baño. Mas info y consultas a nuestro wsap. 474'], ['https://www.inmobusqueda.com.ar/ficha-98069', '63  y 125    ', 'Departamento en   Villa Argüello, Pdo. de Berisso  ', '$210.000 ', 'ideal estudiantes!!! sin expensas!!! departamento por pasillo en planta baja de un dormitorio, cocina, baÑo, lavadero y patio compartido. oportunidad!!'], ['https://www.inmobusqueda.com.ar/ficha-467707', '9  e/ 54 y 55   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$210.000  Expensas : $29000', 'Monoambiente en exlente ubicación, luminoso, al contrafrente, piso de ceramica con  estufa a gas tiro balanceado. Placard y termotanque.'], ['https://www.inmobusqueda.com.ar/ficha-230336', '73  e/ 21 y 22   ', 'Departamento en   Altos de San Lorenzo, Pdo. de La Plata  ', '$220.000 ', 'En planta baja, interno de un dormitorio, baño, cocina-comedor, patio con lavadero. Aceptamos recibos de sueldo, gastos financiados. Sin Expensas-'], ['https://www.inmobusqueda.com.ar/ficha-480099', '2  e/ 57 y 58   ', 'Departamento en   Zona Universidades Bosque, La Plata (Casco Urbano), Pdo. de La Plata  ', '$220.000  Expensas : $70000', 'Monoambiente dividido. Cocina comedor. Patio chico. El valor de las expensas incluye Absa, Luz y seguro. El departamento tiene todo eléctrico.'], ['https://www.inmobusqueda.com.ar/ficha-154092', '55  y 25    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$220.000 ', 'Departamento pequeño en planta baja, por pasillo. Cocina comedor, dormitorio, baño y patiecito.'], ['https://www.inmobusqueda.com.ar/ficha-343107', '144 n° 1371 Depto 1d  e/  60 y 61    ', 'Departamento en   Los Hornos, Pdo. de La Plata  ', '$220.000  Expensas : $18000', 'DEPARTAMENTO AL CONTRAFRENTE. MUY LUMINOSO. COCHERA\r\n        \n\nAlberto Dacal Propiedades: Código de la propiedad  Argentina | G.B.A. Zona Sur |...'], ['https://www.inmobusqueda.com.ar/ficha-90732', '70  e/ 120 y 121   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$220.000 ', 'Monoambiente en planta baja al frente en excelente zona. Gas envasado. SIN EXPENSAS.'], ['https://www.inmobusqueda.com.ar/ficha-462466', '132  e/ 43 y 44   ', 'Departamento en   San Carlos, Pdo. de La Plata  ', '$220.000  Expensas : $15000', 'Consultorio para varios destinos, interno con vista al frente, Sin artefacto de cocina, baño completo, pisos de parquet.  Apto Profesional .'], ['https://www.inmobusqueda.com.ar/ficha-467884', '1 bis  N°2283 e/ 78 y 79   ', 'Departamento en   Villa Elvira, Pdo. de La Plata  ', '$220.000 ', 'Departamento tipo PH interno en Villa Elvira. Posee 35 m2.\r\nCuenta con un dorm., living comedor, cocina incorporada con doble mesada y muebles bajo mesada,...'], ['https://www.inmobusqueda.com.ar/ficha-482446', '12  y 77    ', 'Departamento en   Villa Elvira, Pdo. de La Plata  ', '$220.000 ', 'Departamento  al frente en 12 y 77\r\n\r\nSIN EXPENSAS \r\n\r\nCocina con comedor integrado\r\nDormitorio,  con espacio para pequeño vestidor\r\nBaño\r\nLuminoso \r\n\r\nCon...'], ['https://www.inmobusqueda.com.ar/ficha-483580', '50  N°832 e/ 11 y 12   ', 'Departamento en   Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata  ', '$220.000  Expensas : $39000', 'MONOAMBIENTE CON PATIO Y LAVADERO. Excelente zona y muy luminoso. Amplio departamento monoambiente a metros de Plaza Moreno. Posee cocina separada con mueb...'], ['https://www.inmobusqueda.com.ar/ficha-367951', 'Diagonal 73  N°870 e/ 63 y 64 a estrenar    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$220.000  Expensas : $48300', '#Alquiler #LaPlata #VivirMejor\r\n\r\nCalle Diagonal 73 e/ 63 y 64 Zona universitaria\r\n\r\nMonoambiente a estrenar en un 11vo piso al contrafrente. \r\nExcelente...']]
-[|] 1.45%
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-4.html - DELAY:13
-[['https://www.inmobusqueda.com.ar/ficha-357673', '77 bis  e/ 1 y 115   ', 'Departamento en   Villa Elvira, Pdo. de La Plata  ', '$220.000 ', 'Departamento en planta baja, al frente, a metros de Avenida 1, de un dormitorio, cocina-comedor, baño. A metros de Rapi-pago, farmacia, mercado y mas comer...'], ['https://www.inmobusqueda.com.ar/ficha-360848', '134  e/ 46 y 47   ', 'Departamento en   San Carlos, Pdo. de La Plata  ', '$220.000 ', 'Monoambiente apto vivienda/showroom/ negocio! en 134 e 46 y 47  Con patio\r\n\r\nVideo de la propiedad https://instagram.com/reel/C6HC0LHsf7U/?utm_source=i...'], ['https://www.inmobusqueda.com.ar/ficha-487662', '4  e/ 55 y 56   ', 'Departamento en   Parque San Martín, La Plata (Casco Urbano), Pdo. de La Plata  ', '$225.000 ', 'Departamento monoambiente, impecable cuenta con horno eléctrico y calobentor.'], ['https://www.inmobusqueda.com.ar/ficha-483625', '74  e/ 14 y 15   ', 'Departamento en   Altos de San Lorenzo, Pdo. de La Plata  ', '$230.000 ', 'Buen departamento monoambiente al frente en la localidad de Altos de San Lorenzo. Posee 30 m2, amplio ambiente, cocina separada y baño. Las instalaciones s...'], ['https://www.inmobusqueda.com.ar/ficha-483948', '1  N°1945 y 72    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000  Expensas : $18000', 'Departamento 1 Dormitorio (con placard) al frente con vista a calle 72,  2° piso por escalera. Cocina independiente, living-comedor, baño, lavadero.  Super...'], ['https://www.inmobusqueda.com.ar/ficha-486951', '4  y 43    ', 'Departamento en   Villa Elisa, Pdo. de La Plata  ', '$230.000 ', 'departamento al frente, un dormitorio, cocina comedor y baño'], ['https://www.inmobusqueda.com.ar/ficha-489167', '47  e/ 13 y 14   ', 'Departamento en   Centro calle 13, La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000  Expensas : $28500', 'Monoambiente en tercer piso, baño completo con bañera, kitchenette con anafe de dos hornallas. Aire acondicionado. \r\n\r\nvalor del alquiler $230.000 sin coch...'], ['https://www.inmobusqueda.com.ar/ficha-489261', '54  N°856 e/ 12 y 13   ', 'Departamento en   Centro calle 12, La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000  Expensas : $35000', 'BAÑEZ PROPIEDADES ALQUILA, Monoambiente frente a Plaza Moreno, inmejorable zona de la ciudad con cercania a centro comercial y facultades. Emplazado en un ...'], ['https://www.inmobusqueda.com.ar/ficha-489293', '2  N°539 e/ 42 y 43   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000  Expensas : $23000', 'MONOAMBIENTE.\r\nAPTO ESTUDIANTES\r\nZona estacion tren, Terminal omnibus. Facultades (UNLP)\r\nAmbiente con cocina, termotanque electrico.\r\nLuminoso.\r\nALQUILER ...'], ['https://www.inmobusqueda.com.ar/ficha-105756', '12  e/ 33 y 34   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000 ', 'Departamento Monoambiente con cocina y barra desayunador, baño completo y patio con lavadero. SIN EXPENSAS. DISPONIBLE A PARTIR DEL 01 DE SEPTIEMBRE.'], ['https://www.inmobusqueda.com.ar/ficha-479542', '50 n° 470 1/2 Depto 6b  e/  4 y 5    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000  Expensas : $70000', 'MONOAMBIENTE AL FRENTE A ESTRENAR. CALEFACCION POR SPLIT\n\nAlberto Dacal Propiedades: Código de la propiedad  Argentina | G.B.A. Zona Sur | La P...'], ['https://www.inmobusqueda.com.ar/ficha-466127', '70  e/ 5 y 6   ', 'Departamento en   Plaza España, La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000 ', 'Monoambiente en un segundo piso por escaleras! Con terraza con parrilla'], ['https://www.inmobusqueda.com.ar/ficha-484655', '20  e/ 36 y 37   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000  Expensas : $3000', 'Cuenta con un dormitorio, cocina/comedor con muebles bajomesada, baño y patio.'], ['https://www.inmobusqueda.com.ar/ficha-485329', '61  N°553 e/ 125 y 126   ', 'Departamento en   Zona Universidades Bosque, La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000 ', 'MONOAMBIENTE ESPECIAL PARA ESTUDIANTES, EN CALLE 61 ENTRE 125 Y 126.'], ['https://www.inmobusqueda.com.ar/ficha-479281', '11  N°1227 e/ 57 y 58   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$230.000  Expensas : $45600', 'ALQUILAMOS departamento al contrafrente en excelente estado! Es antiguo pero bien conservado, cuenta con un cómodo living comedor, cocina separada, lavader...']]
-[||] 2.90%
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-5.html - DELAY:13
-[['https://www.inmobusqueda.com.ar/ficha-488840', '148  e/ 66 y 67   ', 'Departamento en   Los Hornos, Pdo. de La Plata  ', 'Consulte', 'Departamento monoambiente con patio, cocina con muebles bajo y sobre mesada y baño completo.'], ['https://www.inmobusqueda.com.ar/ficha-484834', '4  Nro. 1126 entre 55 y 56 (4°3)    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$235.000  Expensas : $57000', 'Monoambiente en un cuarto piso \nCuenta con estar comedor, cocina separada y baño completo. Cuenta con un gran ventanal que le da mucha luminosidad y...'], ['https://www.inmobusqueda.com.ar/ficha-486288', '58  e/ 11 y 12   ', 'Departamento en   Centro calle 12, La Plata (Casco Urbano), Pdo. de La Plata  ', '$237.000  Expensas : $45000', 'Monoambiente ubicado en calle 58 entre 11 y 12 (La Plata, Buenos Aires). Apto Profesional.\r\n\r\nDesarrollado en PB, con disposición interna.\r\n\r\nDispone de un...'], ['https://www.inmobusqueda.com.ar/ficha-476291', '115  e/ 78 y 79   ', 'Departamento en   Aeropuerto, Villa Elvira, Pdo. de La Plata  ', '$240.000 ', 'LEER ATENTAMENTE LA DESCRIPCION | CONSULTAS DE LUNES A VIERNES DE 9 A 16 HORAS\r\n.\r\n.\r\n.\r\nDE LA CRUZ ESTUDIO INMOBILIARIO ALQUILA DEPARTAMENTO INTERNO UBICA...'], ['https://www.inmobusqueda.com.ar/ficha-481651', '12  N°1924 e/ 71 y 72   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$240.000 ', 'Departamento 1 Dormitorio (con placard),  1° piso por escalera. Cocina, living-comedor, baño, lavadero.\r\nSup. cubierta APRÓX. 45 mts.'], ['https://www.inmobusqueda.com.ar/ficha-486356', '60  e/ 147 y 148   ', 'Departamento en   Los Hornos, Pdo. de La Plata  ', '$240.000 ', '60 y 147. Departamento en ALQUILER. Consta de cocina comedor, baño, dormitorio, parque y lavadero. $240.000 sin expensas. Opción de entrada para auto.'], ['https://www.inmobusqueda.com.ar/ficha-457567', '76 Nro. 1574 Entre 26 y 27 (pb°6)    ', 'Departamento en   Altos de San Lorenzo, Pdo. de La Plata  ', '$240.000 ', 'Departamento de 1 dormitorio en planta baja.\nCuenta con living comedor con cocina sectorizada, baño, dormitorio y patio.\n\nSin expensas. Absa con alq...'], ['https://www.inmobusqueda.com.ar/ficha-487858', '(r) 1 Nro. 1522 1/2 Entre 63 y 64 (1°7)    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$240.000  Expensas : $15000', 'Departamento de 1 dormitorio en primer piso\nCuenta con cocina comedor, dormitorio y baño. \nEXPENSAS aprox. $ 15.000\nABSA aprox. $ 8500\nCONTRATO POR ...'], ['https://www.inmobusqueda.com.ar/ficha-463600', '6  N°1919 e/ 71 y 72   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$240.000 ', 'EXELENTE MONOAMBIENTE CON PATIO, COCINA SEPARADA, BAÑO COMPLETO, PLACARD.EXELENTE ESTADO.NO PAGA EXPENSAS. NO SE ADMITEN MASCOTAS. DISPONILE EN MAYO24'], ['https://www.inmobusqueda.com.ar/ficha-482705', '62  e/ 2 y 3   ', 'Departamento en   Centro calle 12, La Plata (Casco Urbano), Pdo. de La Plata  ', '$240.000  Expensas : $6000', 'Departamento interno en primer piso, con cocina-comedor, baño, 1 dormitorio alfombrado (con placard), pequeño balcón trasero, bajas expensas.'], ['https://www.inmobusqueda.com.ar/ficha-484851', '8  N°1343 e/ 59 y 60   ', 'Departamento en   Plaza Rocha, La Plata (Casco Urbano), Pdo. de La Plata  ', '$240.000  Expensas : $25000', 'AMPLIO MONOAMBIENTE DIVIDIDO, QUEDA DE UN DORMITORIO CON PLACARD,BAÑO, COCINA INTEGRADA, EXCELENTE UBICACION !! \r\n\r\nSE ACEPTAN RECIBOS DE SUELDO COMO GARAN...'], ['https://www.inmobusqueda.com.ar/ficha-486499', '57  e/ 10 y 11   ', 'Departamento en   Centro calle 8, La Plata (Casco Urbano), Pdo. de La Plata  ', 'Consulte Expensas : $111', '57 Y 10.(fotos del aviso)\r\nAlquiler (monoambiente) Edificio centrico (2do piso al fte c/ascensor) ambiente único fte con placard, cocina separada con bar...'], ['https://www.inmobusqueda.com.ar/ficha-486555', '531  e/ 118 y 119   ', 'Departamento en   Tolosa, Pdo. de La Plata  ', '$240.000 ', 'Dto interno.\r\nTotalmente reciclado a nuevo.\r\n Entrada por patio embaldosado, con toldo gradaluz, con lavadero.\r\nLiving/comedor. Cocina (no posee artefacto ...'], ['https://www.inmobusqueda.com.ar/ficha-357652', '1  N°1285 e/ 58 y 59   ', 'Departamento en   Mondongo, La Plata (Casco Urbano), Pdo. de La Plata  ', '$240.000  Expensas : $30000', 'Muy luminoso monoambiente en alquiler.\r\n\r\nZona universitaria.\r\n\r\nAmplio monoambiente con cocina semi integrada.\r\nPlacar y baño completo.\r\n4to piso al frent...'], ['https://www.inmobusqueda.com.ar/ficha-307735', '3  N°1434 e/ 61 y 62   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$240.000  Expensas : $20000', 'Monoambiente con cocina equipada separada, aire acondicionado. Zona facultades.\r\n\r\nContrato por 24 meses, actualización cuatrimestral por IPC.']]
-[||||] 4.35%
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-6.html - DELAY:14
-[['https://www.inmobusqueda.com.ar/ficha-481477', '78  e/ 121 y 122   ', 'Departamento en   Villa Elvira, Pdo. de La Plata  ', '$250.000 ', 'Alquilo departamento 1 habitación, cocina comedor, baño y lavadero.'], ['https://www.inmobusqueda.com.ar/ficha-484317', '117  e/ 68 y diagonal 73   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Monoambiente Frente, 2° Piso por escalera, Cocina semi-integrada al ambiente unico, placard, Balcon y baño completo con Ante Baño.'], ['https://www.inmobusqueda.com.ar/ficha-484869', '45  N°1096 e/ 16 y 17   ', 'Departamento en   Plaza Azcuenaga, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', '¡¡¡ SE ALQUILA!!!\r\n\r\nMonoambiente en excelente zona, 7º piso por ascensor, contra frente con vista a la catedral de la Ciudad De La Plata, casco urbano, zo...'], ['https://www.inmobusqueda.com.ar/ficha-485666', '6  N°262 e/ 37 y 38   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $30000', 'Departamento 1 Dormitorio (con placard) contrafrente, 1° piso por escalera. Cocina separada c/ lavadero cubierto, living-comedor amplio y baño.  Superficie...'], ['https://www.inmobusqueda.com.ar/ficha-486498', '53  e/ 4 y 5   ', 'Departamento en   Zona Universidades Centro, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $55000', 'MONOAMBIENTE, CALLE 53 E/4 Y 5\r\n-UBICACION EXCELELNTE\r\n-LUMINOSOSO\r\n-COCINA SEPARADA CON PASAPLATOS\r\n-BAÑO COMPLETO'], ['https://www.inmobusqueda.com.ar/ficha-487126', '18  e/ 55 y 56   ', 'Departamento en   Plaza Islas Malvinas, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $40000', ''], ['https://www.inmobusqueda.com.ar/ficha-487137', '48  N°558 e/ 6 y 7   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', 'Consulte', 'Departamento de un dormitorio con placard, cuenta con estar comedor, cocina separada, baño completo. Zonda ideal de Facultades, al centro de La Plata y a t...'], ['https://www.inmobusqueda.com.ar/ficha-487140', '13  e/ 61 y 62   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Departamento PB Interno de 1 Dormitorio con Placard, Estar Comedor con Cocina Semi Integrada y Baño. No cuenta con gas natural'], ['https://www.inmobusqueda.com.ar/ficha-487279', '10  e/ 520 y 521   ', 'Departamento en   Tolosa, Pdo. de La Plata  ', '$250.000 ', 'Depto. en planta alta, compuesta de cocina-comedor, baño completo y un dormitorio con placard. Bajas expensas.'], ['https://www.inmobusqueda.com.ar/ficha-488229', 'diag 74  y 27    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'DEPTO DE 1 DORM PB EN ALQUILER\r\n ubicado en Diag 74 esq 27\r\n\r\n35 mts2 aprox.\r\n\r\n Cocina comedor\r\n 1 dormi...'], ['https://www.inmobusqueda.com.ar/ficha-488621', '71  e/ 1 y 2   ', 'Departamento en   Policlínico, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Departamento interno de 1 dormitorio zona Policlínico. Sin expensas!'], ['https://www.inmobusqueda.com.ar/ficha-489030', '26  e/ 54 y 55   ', 'PH en   Parque San Martín, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'depto 1 dormitorio con patio techado, 26 54 y 55 parque San Martin'], ['https://www.inmobusqueda.com.ar/ficha-489049', '72  e/ 116 y 117   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $20000', 'Departamento un dormitorio, al frente, segundo piso por escalera. Contrato por 24 meses, ajuste semestral por ICL'], ['https://www.inmobusqueda.com.ar/ficha-489235', '8  e/ 57 y 58   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Departamento monoambiente al frente de 22 m2.\r\nTercer piso por escalera.'], ['https://www.inmobusqueda.com.ar/ficha-489313', '61  e/ 1 y 2   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Inmejorable oportunidad. Ideal para estudiantes!!\r\n\r\nExcelente monoambiente ubicado en Calle 61 e/ 1 y 2, a tan solo cuadras de la mayoría de las Facultade...']]
-[|||||] 5.80%
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-7.html - DELAY:17
-[['https://www.inmobusqueda.com.ar/ficha-489123', '61  e/ 21 y 22   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Monoambiente sin expensas. Al frente. A la calle. Excelente ubicación.'], ['https://www.inmobusqueda.com.ar/ficha-369426', '20 Nro. 1410 entre 61 y 62 (3° B)    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $45000', 'Departamento monoambiente, tercer piso al frente.\nCuenta con estar comedor, cocina y baño completo.\nExpensas aproximadas $45.000, incluye ABSA.\nCONT...'], ['https://www.inmobusqueda.com.ar/ficha-376795', '18 n°570 e/ 43 y 44 Depto. 9    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $25000', 'Como departamento en buen estado. Excelente barrio. Bajas Expensas.\n\nAlberto Dacal Propiedades: Código de la propiedad 5 Argentina | G.B.A. Zon...'], ['https://www.inmobusqueda.com.ar/ficha-441607', '38 n° 1115  Piso 2 depto 5 e/ 17 y 18    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $7000', 'Departamentos MONOAMBIENTE al contrafrente, modernos y luminosos con la mejor orientación al sol.\n            \n        \nSe entregan con cortinas, mu...'], ['https://www.inmobusqueda.com.ar/ficha-486173', '11 n° 1431 Depto 2d  e/  61 y 62    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $50000', 'CONTRAFRENTE MUY LUMINOSO\n\n\n\nAlberto Dacal Propiedades: Código de la propiedad  Argentina | G.B.A. Zona Sur | La Plata | La Plata'], ['https://www.inmobusqueda.com.ar/ficha-486560', 'Calle 64 al 300    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Alquiler de Departamento MONOAMBIENTE, 64 e 1 y 2 La Plata            \n            \n        \nMonoambiente ubicado en planta contrafrente.Instalación...'], ['https://www.inmobusqueda.com.ar/ficha-487755', '45 128 1a    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $10000', 'Departamento en Alquiler\n1 dormitorio\nBaño Completo\nCocina con Barra\n1er piso por escalera\nContra frente\nPosibilidad de cochera ($20.000)\n        \r\n...'], ['https://www.inmobusqueda.com.ar/ficha-488937', '18 entre 33 y 34 77 4d    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $35000', 'Monoambiente dividido\n\nExpensas $35.000\n\nCONTRATO POR 2 AÑOS, CON AJUSTE CUATRIMESTRAL POR ICL.\n\nLa información gráfica y escrita cont...'], ['https://www.inmobusqueda.com.ar/ficha-489189', '71 al 100    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Departamento en alquiler. Ubicado en 71 entre 117 y boulevard 84.Desarrollado en planta baja. Estilo PHCuenta con cocina comedor. dormitorio, baño y...'], ['https://www.inmobusqueda.com.ar/ficha-489290', '70  entre 25 y 26    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'Departamento al frente, estar comedor, cocina con desayunador, dormitorio con placard, baño con antebaño, balcón y cochera descubierta...'], ['https://www.inmobusqueda.com.ar/ficha-349246', '12 n° 728 Depto 3b  e/  46 y 47    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $20000', 'DEPARTAMENTO AL FRENTE\n\nAlberto Dacal Propiedades: Código de la propiedad  Argentina | G.B.A. Zona Sur | La Plata | La Plata'], ['https://www.inmobusqueda.com.ar/ficha-345689', '49 esq. 5  n 491 Depto 6a    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $26000', 'AL FRENTE, BUENA VISTA.\n\nAlberto Dacal Propiedades: Código de la propiedad  Argentina | G.B.A. Zona Sur | La Plata | La Plata'], ['https://www.inmobusqueda.com.ar/ficha-296946', '44 e/ 23 y 24 n 1432 Piso 3 Dpto b    ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $29000', 'Excelente monoambiente en alquiler cocina semi separada con barra desayunadora .-\nMuy luminoso al frente con balcón, cuenta con aire acondicionado f...'], ['https://www.inmobusqueda.com.ar/ficha-470361', '520  y 155  a estrenar    ', 'Departamento en   Melchor Romero, Pdo. de La Plata  ', '$250.000 ', ''], ['https://www.inmobusqueda.com.ar/ficha-487939', '22  e/ 48 y 49   ', 'Departamento en   Barrio Norte, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'MONOAMBIENTE 2DO PISO POR ESCALERA']]
-[|||||||] 7.25%
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-8.html - DELAY:10
-[['https://www.inmobusqueda.com.ar/ficha-362033', '3  N°1324 e/ 59 y 60   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $50000', 'Ambiente único con baño completo y balcón. Tiene placard.'], ['https://www.inmobusqueda.com.ar/ficha-398436', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '41  N°105 e/ 121 y 122   ', '$250.000  Expensas : $20000', 'dueño directo alquila departamento, enviar mensaje por .'], ['https://www.inmobusqueda.com.ar/ficha-313205', '70  e/ 6 y 7   ', 'Departamento en   Plaza España, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $24000', '70 e/ 6 y 7 DEPARTAMENTO 1 DORMITORIO . AMPLIO,\r\nEXPENSAS BAJAS PRIMER PISO POR ESCALERA\r\nCOCINA COMEDOR Amplia con calefactor y barra-divisoria.un...'], ['https://www.inmobusqueda.com.ar/ficha-352126', '1  N°1565 e/ 64 y 65   ', 'Departamento en   Plaza Mateu, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $19000', '1 (64 y 65) MONOAMBIENTE AMPLIO CON JARDÍN ARBOLADO $0\r\n\r\n1 (64 Y 65), monoambiente amplio con jardín arbolado.\r\n Baño con ducha, cocina en L, ambient...'], ['https://www.inmobusqueda.com.ar/ficha-433106', '138  y 70    ', 'Departamento en   Los Hornos, Pdo. de La Plata  ', '$250.000 ', 'Departamento monoambiente con aire acondiconado, entrada para auto chico, baño completo y patio. 4 CUADRAS DEL CENTRO.'], ['https://www.inmobusqueda.com.ar/ficha-445324', '48  N°1576 e/ 26 y 27   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $40000', 'Muy buen monoambiente en primer piso por escalera, al frente, muy luminoso. Cocina separada, baño completo.\r\nAlquiler x 2 años con ajuste cuatrimestral: \r\n...'], ['https://www.inmobusqueda.com.ar/ficha-449948', '131  N°859 e/ 49 y 50   ', 'Departamento en   San Carlos, Pdo. de La Plata  ', '$250.000 ', 'Departamento al frente con balcon, ubicado en calle 131 e/ 49 y 50 n º859, un dormitorio con placard, livingcocina con bajo mesada /alacena comedor, baño...'], ['https://www.inmobusqueda.com.ar/ficha-460218', 'Diag 73  N°1534 e/ 56 y 10   ', 'Departamento en   Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $39000', 'UBICACIÓN DEL EDIFICIO:\r\nEl edificio se encuentra en una ubicación estratégica y privilegiada de la ciudad:  \r\nA 2 cuadras de Plaza Moreno (centro geográfi...'], ['https://www.inmobusqueda.com.ar/ficha-463070', '116  N°424 e/ 40 y 41   ', 'Departamento en   Hipodromo, La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $130000', 'Departamento ubicado en segundo piso por escalera, al frente.\r\nIngresamos al living comedor, con aire acondicionado y tiro balanceado.\r\nCocina con barra y ...'], ['https://www.inmobusqueda.com.ar/ficha-465575', '80  N°146 e/ 121 y 122   ', 'Departamento en   Villa Elvira, Pdo. de La Plata  ', '$250.000  Expensas : $10000', 'Departamento nuevo de 2 dormir c/placar, cocina comedor y living amplio, baño, patio, balcón, terraza c/parrilla. Posibilidad de cochera'], ['https://www.inmobusqueda.com.ar/ficha-470855', '142 bis  N°505 e/ 58 y 59   ', 'Departamento en   Los Hornos, Pdo. de La Plata  ', '$250.000 ', 'Depto en planta baja en barrio D Funes. Jardín al frente con cochera techada. Consta de cocina-comedor (con artefacto de cocina, termotanque y estufa a gas...'], ['https://www.inmobusqueda.com.ar/ficha-478495', '66  e/ 140 y 141   ', 'Departamento en   Los Hornos, Pdo. de La Plata  ', '$250.000 ', '66 e/ 140 y 141. Departamento en Alquiler al frente. Consta de comedor, cocina separada, dormitorio con placard, baño completo y lavadero. Departamento amp...'], ['https://www.inmobusqueda.com.ar/ficha-480902', '70  e/ 15 y 16   ', 'Duplex en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000  Expensas : $13000', '70 e 15 y 16. Departamento tipo duplex en planta baja, contra frente. PB posee cocina-comedor con muebles bajo mesada, calefactor . En PA posee un (1) dorm...'], ['https://www.inmobusqueda.com.ar/ficha-481441', '38  y 136    ', 'Departamento en   San Carlos, Pdo. de La Plata  ', '$250.000 ', ' *Departamento en Primer Piso Ideal para Tu Nuevo Hogar* \r\n\r\nTe presentamos este cómodo departamento en primer piso, perfecto para quie...'], ['https://www.inmobusqueda.com.ar/ficha-483595', '37  N°1229 e/ 19 y 20   ', 'Departamento en   La Plata (Casco Urbano), Pdo. de La Plata  ', '$250.000 ', 'calle 37 e/ 19 y 20. 2º piso depto "A". Monoambiente en excelente barrio, amplio con cocina incorporada, conexión para lavarropas, baño completo y balcón a...']]
-[||||||||] 8.70%
-[GET] departamento-alquiler-partido-la-plata-0-3000000-pesos-pagina-9.html - DELAY:20
+[BOX 2] [9]
+Monoambiente en Alquiler
+53 e/ 11 y 12 > Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata
+$250.000
+Monoambiente al frente. Cocina separada con Lavadero. Baño completo Consultas al 2215446919
+Monoamb
+35 mts
+IB-489122
+23-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 3] [9]
+Departamento en Alquiler
+7 N°336 e/ 38 y 39 > Barrio Norte, La Plata (Casco Urbano), Pdo. de La Plata
+$520.000
+Departamento al frente de 1 dormitorio, posee calefaccion por radiadores, split frio calor en el estar comedor. 1 dormitorio con placard completo y baño. ...
+1 Dorm
+50 mts
+IB-488805
+17-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 4] [9]
+Monoambiente en Alquiler
+45 e/ 6 y 7 > Plaza Italia, La Plata (Casco Urbano), Pdo. de La Plata
+$350.000
+Monoambiente grande en alquiler calle 45 e/ 6 y 7 Próximo a Plaza Italia. zona de facultades La Plata, casco urbano. Cocina integrada al living comedor, ...
+Monoamb
+38 mts
+IB-486953
+27-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 5] [9]
+8 e/ 42 y 43
+Edificio en La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+Waingortin Servicios Inmobiliarios ALQUILA !! Importante edificio de planta baja, mas 3 pisos y terraza. En planta baja se encuentra un gran salón c...
+Monoamb
+635 mts
+Garage Si
+IB-480905
+04-12-2024
+
+--------------------------
+
+[BOX 6] [9]
+32 N°24 e/ 163 y 164
+Departamento en Melchor Romero, Pdo. de La Plata
+$95.000 Expensas : $3000
+Se alquila Departamento de un dormitorio en segundo piso por escalera dentro de complejo. (el complejo no posee el servicio de gas. El departamento no vi...
+1 Dorm
+25 mts
+Garage No
+IB-488560
+16-12-2024
+
+--------------------------
+
+[BOX 7] [9]
+608 N°873 e/ 12 y 13
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$150.000 Expensas : $6500
+MONOAMBIENTE EN ALQUILER, POSEE COCINA Y BAÑO. TERRAZA COMPARTIDA. NO SE PERMITEN MASCOTAS.
+Monoamb
+25 mts
+Garage No
+IB-482044
+30-09-2024
+
+--------------------------
+
+[BOX 8] [9]
+10 N°1521 e/ 63 y 64
+Departamento en Zona Universidades Centro, La Plata (Casco Urbano), Pdo. de La Plata
+$150.000 Expensas : $12000
+Planta baja frente, ambiente chico con cocina incorporada baño. PRECIO: $ 150.000 + absa , contrato por 2 años, ajuste trimestral por I.C.L. GASTOS Y...
+Monoamb
+25 mts
+Garage No
+IB-484082
+23-10-2024
+
+--------------------------
+
+[BOX 9] [9]
+1 y 75
+Departamento en Villa Elvira, Pdo. de La Plata
+$160.000
+MONOAMBIENTE EN ALQUILER ubicado en AV. 1 Y 75 25 mts2 aprox. espacio amplio cocina con bar...
+Monoamb
+25 mts
+Garage No
+IB-485316
+06-11-2024
+
+--------------------------
+
+[BOX 10] [9]
+26 e/ 34 y 35
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$160.000
+26 e/ 34 y 35 monoambiente a la calle en planta baja. Totalmente independiente.
+Monoamb
+23 mts
+Garage No
+IB-486932
+27-11-2024
+
+--------------------------
+
+[BOX 11] [9]
+3 N°567 e/ 43 y 44
+Departamento en Terminal de Omnibus, La Plata (Casco Urbano), Pdo. de La Plata
+$160.000 Expensas : $9000
+Departamento planta baja interno, compuesto de: cocina comedor, mesada con pileta, mueble bajo mesada, artefacto de cocina, termotanque, dormitorio, baño, ...
+1 Dorm
+32 mts
+Garage No
+IB-485604
+12-11-2024
+
+--------------------------
+
+[BOX 12] [9]
+607 e/ 11 bis y 12
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$160.000
+Departamento interno, planta baja, un dormitorio, cocina comedor y patio. Servicios compartidos.-
+1 Dorm
+32 mts
+Garage No
+IB-312380
+09-09-2024
+
+--------------------------
+
+[BOX 13] [9]
+58 e/ 7 y 8
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000 Expensas : $25000
+DEPARTAMENTO MONOAMBIENTE EN ALQUILER EXCELENTE UBICACIÓN ZONA UNIVERSITARIA
+Monoamb
+30 mts
+Garage No
+IB-488409
+13-12-2024
+
+--------------------------
+
+[BOX 14] [9]
+115 y 92
+PH en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$170.000
+Departamento A ESTRENAR PA de 2 Dormit con cocina comedor integral, baño completo, PB patio común.
+2 Dorm
+70 mts
+Garage No
+IB-465642
+16-03-2024
+
+--------------------------
+
+[BOX 15] [9]
+31 N°873 e/ 49 y 50
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000
+MONOAMBIENTE UBICADO EN CALLE 131 E/ 49 Y 50. PLANTA BAJA Y AL FRENTE.- AMBIENTE con mesada, bacha y toilette.18 METROS CUBIERTOS. Sobre Avenida 131 de...
+Monoamb
+18 mts
+Garage No
+IB-486685
+25-11-2024
+
+--------------------------
+
+[BOX 16] [9]
+(e) 117 Nro. 1733 entre 67 y 68 (pb° A)
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+Monoambiente en planta baja. Cuenta con estar comedor, cocina y baño. Sin expensas. ABSA $1.000 aproximadamente. CONTRATO POR 2 AÑOS CON AJUS...
+Monoamb
+25 mts
+Garage No
+IB-393989
+22-10-2024
+
+--------------------------
+
+[BOX 17] [9]
+29 n° 1233 Depto 115 e/ 57 y 58
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000 Expensas : $15000
+MONOAMBIENTE. MUY BUEN ESTADO. COCINA CON SPAR Y MUEBLES SOBRE Y BAJO MESADA. TERRAZA COMÚN. ASENSOR. SISTEMA DE CLIMATIZACIÓN POR TIRO BALAN...
+Monoamb
+28 mts
+Garage No
+IB-465694
+02-07-2024
+
+--------------------------
+
+[BOX 18] [9]
+78 bis N°435 e/ 3 y 4
+Departamento en Barrio Monasterio, Villa Elvira, Pdo. de La Plata
+$180.000 Expensas : $12000
+Monoambiente amplio, muy luminoso. Primer piso por escalera.
+Monoamb
+48 mts
+Garage No
+IB-479405
+03-09-2024
+
+--------------------------
+
+[BOX 19] [9]
+63 y 125
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+MODESTO, IDEAL ESTUDIANTE! MONOAMBIENTE SIN EXPENSAS! CERCANO A UNIVERSIDADES!!!
+Monoamb
+30 mts
+Garage No
+IB-114104
+02-09-2024
+
+--------------------------
+
+[BOX 0] [10]
+Departamento en Alquiler
+42 N°1027 e/ 15 y 16 > La Loma, La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+42 Y 15.- OTROS (23/38)C/BALCON,(32/9RESERVADO),(35/20)C/COCHERA,(43/12RESERVADO),(57/10)MONOAMBIENTE,(59/19)C/BALCON Y C/COCHERA(ALQUILERES DE 1DORMITORIO...
+1 Dorm
+44 mts
+Garage Optativa
+IB-486643
+27-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 1] [9]
+Departamento en Alquiler
+1 N°1311 e/ 59 y 60 > La Plata (Casco Urbano), Pdo. de La Plata
+$280.000
+MONICA BIANCHINI BIENES RAICES ALQUILA DEPTO de 1 DORMITORIO, cocina separada, baño completo con bañera, ventilación natural y lavadero cubierto. El ambie...
+1 Dorm
+35 mts
+IB-402215
+28-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 2] [9]
+Monoambiente en Alquiler
+53 e/ 11 y 12 > Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata
+$250.000
+Monoambiente al frente. Cocina separada con Lavadero. Baño completo Consultas al 2215446919
+Monoamb
+35 mts
+IB-489122
+23-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 3] [9]
+Departamento en Alquiler
+7 N°336 e/ 38 y 39 > Barrio Norte, La Plata (Casco Urbano), Pdo. de La Plata
+$520.000
+Departamento al frente de 1 dormitorio, posee calefaccion por radiadores, split frio calor en el estar comedor. 1 dormitorio con placard completo y baño. ...
+1 Dorm
+50 mts
+IB-488805
+17-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 4] [9]
+Monoambiente en Alquiler
+45 e/ 6 y 7 > Plaza Italia, La Plata (Casco Urbano), Pdo. de La Plata
+$350.000
+Monoambiente grande en alquiler calle 45 e/ 6 y 7 Próximo a Plaza Italia. zona de facultades La Plata, casco urbano. Cocina integrada al living comedor, ...
+Monoamb
+38 mts
+IB-486953
+27-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 5] [9]
+8 e/ 42 y 43
+Edificio en La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+Waingortin Servicios Inmobiliarios ALQUILA !! Importante edificio de planta baja, mas 3 pisos y terraza. En planta baja se encuentra un gran salón c...
+Monoamb
+635 mts
+Garage Si
+IB-480905
+04-12-2024
+
+--------------------------
+
+[BOX 6] [9]
+32 N°24 e/ 163 y 164
+Departamento en Melchor Romero, Pdo. de La Plata
+$95.000 Expensas : $3000
+Se alquila Departamento de un dormitorio en segundo piso por escalera dentro de complejo. (el complejo no posee el servicio de gas. El departamento no vi...
+1 Dorm
+25 mts
+Garage No
+IB-488560
+16-12-2024
+
+--------------------------
+
+[BOX 7] [9]
+608 N°873 e/ 12 y 13
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$150.000 Expensas : $6500
+MONOAMBIENTE EN ALQUILER, POSEE COCINA Y BAÑO. TERRAZA COMPARTIDA. NO SE PERMITEN MASCOTAS.
+Monoamb
+25 mts
+Garage No
+IB-482044
+30-09-2024
+
+--------------------------
+
+[BOX 8] [9]
+10 N°1521 e/ 63 y 64
+Departamento en Zona Universidades Centro, La Plata (Casco Urbano), Pdo. de La Plata
+$150.000 Expensas : $12000
+Planta baja frente, ambiente chico con cocina incorporada baño. PRECIO: $ 150.000 + absa , contrato por 2 años, ajuste trimestral por I.C.L. GASTOS Y...
+Monoamb
+25 mts
+Garage No
+IB-484082
+23-10-2024
+
+--------------------------
+
+[BOX 9] [9]
+1 y 75
+Departamento en Villa Elvira, Pdo. de La Plata
+$160.000
+MONOAMBIENTE EN ALQUILER ubicado en AV. 1 Y 75 25 mts2 aprox. espacio amplio cocina con bar...
+Monoamb
+25 mts
+Garage No
+IB-485316
+06-11-2024
+
+--------------------------
+
+[BOX 10] [9]
+26 e/ 34 y 35
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$160.000
+26 e/ 34 y 35 monoambiente a la calle en planta baja. Totalmente independiente.
+Monoamb
+23 mts
+Garage No
+IB-486932
+27-11-2024
+
+--------------------------
+
+[BOX 11] [9]
+3 N°567 e/ 43 y 44
+Departamento en Terminal de Omnibus, La Plata (Casco Urbano), Pdo. de La Plata
+$160.000 Expensas : $9000
+Departamento planta baja interno, compuesto de: cocina comedor, mesada con pileta, mueble bajo mesada, artefacto de cocina, termotanque, dormitorio, baño, ...
+1 Dorm
+32 mts
+Garage No
+IB-485604
+12-11-2024
+
+--------------------------
+
+[BOX 12] [9]
+607 e/ 11 bis y 12
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$160.000
+Departamento interno, planta baja, un dormitorio, cocina comedor y patio. Servicios compartidos.-
+1 Dorm
+32 mts
+Garage No
+IB-312380
+09-09-2024
+
+--------------------------
+
+[BOX 13] [9]
+58 e/ 7 y 8
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000 Expensas : $25000
+DEPARTAMENTO MONOAMBIENTE EN ALQUILER EXCELENTE UBICACIÓN ZONA UNIVERSITARIA
+Monoamb
+30 mts
+Garage No
+IB-488409
+13-12-2024
+
+--------------------------
+
+[BOX 14] [9]
+115 y 92
+PH en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$170.000
+Departamento A ESTRENAR PA de 2 Dormit con cocina comedor integral, baño completo, PB patio común.
+2 Dorm
+70 mts
+Garage No
+IB-465642
+16-03-2024
+
+--------------------------
+
+[BOX 15] [9]
+31 N°873 e/ 49 y 50
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000
+MONOAMBIENTE UBICADO EN CALLE 131 E/ 49 Y 50. PLANTA BAJA Y AL FRENTE.- AMBIENTE con mesada, bacha y toilette.18 METROS CUBIERTOS. Sobre Avenida 131 de...
+Monoamb
+18 mts
+Garage No
+IB-486685
+25-11-2024
+
+--------------------------
+
+[BOX 16] [9]
+(e) 117 Nro. 1733 entre 67 y 68 (pb° A)
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+Monoambiente en planta baja. Cuenta con estar comedor, cocina y baño. Sin expensas. ABSA $1.000 aproximadamente. CONTRATO POR 2 AÑOS CON AJUS...
+Monoamb
+25 mts
+Garage No
+IB-393989
+22-10-2024
+
+--------------------------
+
+[BOX 17] [9]
+29 n° 1233 Depto 115 e/ 57 y 58
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000 Expensas : $15000
+MONOAMBIENTE. MUY BUEN ESTADO. COCINA CON SPAR Y MUEBLES SOBRE Y BAJO MESADA. TERRAZA COMÚN. ASENSOR. SISTEMA DE CLIMATIZACIÓN POR TIRO BALAN...
+Monoamb
+28 mts
+Garage No
+IB-465694
+02-07-2024
+
+--------------------------
+
+[BOX 18] [9]
+78 bis N°435 e/ 3 y 4
+Departamento en Barrio Monasterio, Villa Elvira, Pdo. de La Plata
+$180.000 Expensas : $12000
+Monoambiente amplio, muy luminoso. Primer piso por escalera.
+Monoamb
+48 mts
+Garage No
+IB-479405
+03-09-2024
+
+--------------------------
+
+[BOX 19] [9]
+63 y 125
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+MODESTO, IDEAL ESTUDIANTE! MONOAMBIENTE SIN EXPENSAS! CERCANO A UNIVERSIDADES!!!
+Monoamb
+30 mts
+Garage No
+IB-114104
+02-09-2024
+
+--------------------------
+
+[||] 2.78%
+[BOX 0] [10]
+Departamento en Alquiler
+42 N°1027 e/ 15 y 16 > La Loma, La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+42 Y 15.- OTROS (23/38)C/BALCON,(32/9RESERVADO),(35/20)C/COCHERA,(43/12RESERVADO),(57/10)MONOAMBIENTE,(59/19)C/BALCON Y C/COCHERA(ALQUILERES DE 1DORMITORIO...
+1 Dorm
+44 mts
+Garage Optativa
+IB-486643
+27-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 1] [9]
+Departamento en Alquiler
+1 N°1311 e/ 59 y 60 > La Plata (Casco Urbano), Pdo. de La Plata
+$280.000
+MONICA BIANCHINI BIENES RAICES ALQUILA DEPTO de 1 DORMITORIO, cocina separada, baño completo con bañera, ventilación natural y lavadero cubierto. El ambie...
+1 Dorm
+35 mts
+IB-402215
+28-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 2] [9]
+Monoambiente en Alquiler
+53 e/ 11 y 12 > Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata
+$250.000
+Monoambiente al frente. Cocina separada con Lavadero. Baño completo Consultas al 2215446919
+Monoamb
+35 mts
+IB-489122
+23-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 3] [9]
+Departamento en Alquiler
+7 N°336 e/ 38 y 39 > Barrio Norte, La Plata (Casco Urbano), Pdo. de La Plata
+$520.000
+Departamento al frente de 1 dormitorio, posee calefaccion por radiadores, split frio calor en el estar comedor. 1 dormitorio con placard completo y baño. ...
+1 Dorm
+50 mts
+IB-488805
+17-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 4] [9]
+Monoambiente en Alquiler
+45 e/ 6 y 7 > Plaza Italia, La Plata (Casco Urbano), Pdo. de La Plata
+$350.000
+Monoambiente grande en alquiler calle 45 e/ 6 y 7 Próximo a Plaza Italia. zona de facultades La Plata, casco urbano. Cocina integrada al living comedor, ...
+Monoamb
+38 mts
+IB-486953
+27-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 5] [9]
+8 e/ 42 y 43
+Edificio en La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+Waingortin Servicios Inmobiliarios ALQUILA !! Importante edificio de planta baja, mas 3 pisos y terraza. En planta baja se encuentra un gran salón c...
+Monoamb
+635 mts
+Garage Si
+IB-480905
+04-12-2024
+
+--------------------------
+
+[BOX 6] [9]
+32 N°24 e/ 163 y 164
+Departamento en Melchor Romero, Pdo. de La Plata
+$95.000 Expensas : $3000
+Se alquila Departamento de un dormitorio en segundo piso por escalera dentro de complejo. (el complejo no posee el servicio de gas. El departamento no vi...
+1 Dorm
+25 mts
+Garage No
+IB-488560
+16-12-2024
+
+--------------------------
+
+[BOX 7] [9]
+608 N°873 e/ 12 y 13
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$150.000 Expensas : $6500
+MONOAMBIENTE EN ALQUILER, POSEE COCINA Y BAÑO. TERRAZA COMPARTIDA. NO SE PERMITEN MASCOTAS.
+Monoamb
+25 mts
+Garage No
+IB-482044
+30-09-2024
+
+--------------------------
+
+[BOX 8] [9]
+10 N°1521 e/ 63 y 64
+Departamento en Zona Universidades Centro, La Plata (Casco Urbano), Pdo. de La Plata
+$150.000 Expensas : $12000
+Planta baja frente, ambiente chico con cocina incorporada baño. PRECIO: $ 150.000 + absa , contrato por 2 años, ajuste trimestral por I.C.L. GASTOS Y...
+Monoamb
+25 mts
+Garage No
+IB-484082
+23-10-2024
+
+--------------------------
+
+[BOX 9] [9]
+1 y 75
+Departamento en Villa Elvira, Pdo. de La Plata
+$160.000
+MONOAMBIENTE EN ALQUILER ubicado en AV. 1 Y 75 25 mts2 aprox. espacio amplio cocina con bar...
+Monoamb
+25 mts
+Garage No
+IB-485316
+06-11-2024
+
+--------------------------
+
+[BOX 10] [9]
+26 e/ 34 y 35
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$160.000
+26 e/ 34 y 35 monoambiente a la calle en planta baja. Totalmente independiente.
+Monoamb
+23 mts
+Garage No
+IB-486932
+27-11-2024
+
+--------------------------
+
+[BOX 11] [9]
+3 N°567 e/ 43 y 44
+Departamento en Terminal de Omnibus, La Plata (Casco Urbano), Pdo. de La Plata
+$160.000 Expensas : $9000
+Departamento planta baja interno, compuesto de: cocina comedor, mesada con pileta, mueble bajo mesada, artefacto de cocina, termotanque, dormitorio, baño, ...
+1 Dorm
+32 mts
+Garage No
+IB-485604
+12-11-2024
+
+--------------------------
+
+[BOX 12] [9]
+607 e/ 11 bis y 12
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$160.000
+Departamento interno, planta baja, un dormitorio, cocina comedor y patio. Servicios compartidos.-
+1 Dorm
+32 mts
+Garage No
+IB-312380
+09-09-2024
+
+--------------------------
+
+[BOX 13] [9]
+58 e/ 7 y 8
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000 Expensas : $25000
+DEPARTAMENTO MONOAMBIENTE EN ALQUILER EXCELENTE UBICACIÓN ZONA UNIVERSITARIA
+Monoamb
+30 mts
+Garage No
+IB-488409
+13-12-2024
+
+--------------------------
+
+[BOX 14] [9]
+115 y 92
+PH en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$170.000
+Departamento A ESTRENAR PA de 2 Dormit con cocina comedor integral, baño completo, PB patio común.
+2 Dorm
+70 mts
+Garage No
+IB-465642
+16-03-2024
+
+--------------------------
+
+[BOX 15] [9]
+31 N°873 e/ 49 y 50
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000
+MONOAMBIENTE UBICADO EN CALLE 131 E/ 49 Y 50. PLANTA BAJA Y AL FRENTE.- AMBIENTE con mesada, bacha y toilette.18 METROS CUBIERTOS. Sobre Avenida 131 de...
+Monoamb
+18 mts
+Garage No
+IB-486685
+25-11-2024
+
+--------------------------
+
+[BOX 16] [9]
+(e) 117 Nro. 1733 entre 67 y 68 (pb° A)
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+Monoambiente en planta baja. Cuenta con estar comedor, cocina y baño. Sin expensas. ABSA $1.000 aproximadamente. CONTRATO POR 2 AÑOS CON AJUS...
+Monoamb
+25 mts
+Garage No
+IB-393989
+22-10-2024
+
+--------------------------
+
+[BOX 17] [9]
+29 n° 1233 Depto 115 e/ 57 y 58
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000 Expensas : $15000
+MONOAMBIENTE. MUY BUEN ESTADO. COCINA CON SPAR Y MUEBLES SOBRE Y BAJO MESADA. TERRAZA COMÚN. ASENSOR. SISTEMA DE CLIMATIZACIÓN POR TIRO BALAN...
+Monoamb
+28 mts
+Garage No
+IB-465694
+02-07-2024
+
+--------------------------
+
+[BOX 18] [9]
+78 bis N°435 e/ 3 y 4
+Departamento en Barrio Monasterio, Villa Elvira, Pdo. de La Plata
+$180.000 Expensas : $12000
+Monoambiente amplio, muy luminoso. Primer piso por escalera.
+Monoamb
+48 mts
+Garage No
+IB-479405
+03-09-2024
+
+--------------------------
+
+[BOX 19] [9]
+63 y 125
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+MODESTO, IDEAL ESTUDIANTE! MONOAMBIENTE SIN EXPENSAS! CERCANO A UNIVERSIDADES!!!
+Monoamb
+30 mts
+Garage No
+IB-114104
+02-09-2024
+
+--------------------------
+
+[||||] 4.17%
+[BOX 0] [10]
+Departamento en Alquiler
+42 N°1027 e/ 15 y 16 > La Loma, La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+42 Y 15.- OTROS (23/38)C/BALCON,(32/9RESERVADO),(35/20)C/COCHERA,(43/12RESERVADO),(57/10)MONOAMBIENTE,(59/19)C/BALCON Y C/COCHERA(ALQUILERES DE 1DORMITORIO...
+1 Dorm
+44 mts
+Garage Optativa
+IB-486643
+27-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 1] [9]
+Departamento en Alquiler
+1 N°1311 e/ 59 y 60 > La Plata (Casco Urbano), Pdo. de La Plata
+$280.000
+MONICA BIANCHINI BIENES RAICES ALQUILA DEPTO de 1 DORMITORIO, cocina separada, baño completo con bañera, ventilación natural y lavadero cubierto. El ambie...
+1 Dorm
+35 mts
+IB-402215
+28-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 2] [9]
+Monoambiente en Alquiler
+53 e/ 11 y 12 > Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata
+$250.000
+Monoambiente al frente. Cocina separada con Lavadero. Baño completo Consultas al 2215446919
+Monoamb
+35 mts
+IB-489122
+23-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 3] [9]
+Departamento en Alquiler
+7 N°336 e/ 38 y 39 > Barrio Norte, La Plata (Casco Urbano), Pdo. de La Plata
+$520.000
+Departamento al frente de 1 dormitorio, posee calefaccion por radiadores, split frio calor en el estar comedor. 1 dormitorio con placard completo y baño. ...
+1 Dorm
+50 mts
+IB-488805
+17-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 4] [9]
+Monoambiente en Alquiler
+45 e/ 6 y 7 > Plaza Italia, La Plata (Casco Urbano), Pdo. de La Plata
+$350.000
+Monoambiente grande en alquiler calle 45 e/ 6 y 7 Próximo a Plaza Italia. zona de facultades La Plata, casco urbano. Cocina integrada al living comedor, ...
+Monoamb
+38 mts
+IB-486953
+27-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 5] [9]
+8 e/ 42 y 43
+Edificio en La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+Waingortin Servicios Inmobiliarios ALQUILA !! Importante edificio de planta baja, mas 3 pisos y terraza. En planta baja se encuentra un gran salón c...
+Monoamb
+635 mts
+Garage Si
+IB-480905
+04-12-2024
+
+--------------------------
+
+[BOX 6] [9]
+32 N°24 e/ 163 y 164
+Departamento en Melchor Romero, Pdo. de La Plata
+$95.000 Expensas : $3000
+Se alquila Departamento de un dormitorio en segundo piso por escalera dentro de complejo. (el complejo no posee el servicio de gas. El departamento no vi...
+1 Dorm
+25 mts
+Garage No
+IB-488560
+16-12-2024
+
+--------------------------
+
+[BOX 7] [9]
+608 N°873 e/ 12 y 13
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$150.000 Expensas : $6500
+MONOAMBIENTE EN ALQUILER, POSEE COCINA Y BAÑO. TERRAZA COMPARTIDA. NO SE PERMITEN MASCOTAS.
+Monoamb
+25 mts
+Garage No
+IB-482044
+30-09-2024
+
+--------------------------
+
+[BOX 8] [9]
+10 N°1521 e/ 63 y 64
+Departamento en Zona Universidades Centro, La Plata (Casco Urbano), Pdo. de La Plata
+$150.000 Expensas : $12000
+Planta baja frente, ambiente chico con cocina incorporada baño. PRECIO: $ 150.000 + absa , contrato por 2 años, ajuste trimestral por I.C.L. GASTOS Y...
+Monoamb
+25 mts
+Garage No
+IB-484082
+23-10-2024
+
+--------------------------
+
+[BOX 9] [9]
+1 y 75
+Departamento en Villa Elvira, Pdo. de La Plata
+$160.000
+MONOAMBIENTE EN ALQUILER ubicado en AV. 1 Y 75 25 mts2 aprox. espacio amplio cocina con bar...
+Monoamb
+25 mts
+Garage No
+IB-485316
+06-11-2024
+
+--------------------------
+
+[BOX 10] [9]
+26 e/ 34 y 35
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$160.000
+26 e/ 34 y 35 monoambiente a la calle en planta baja. Totalmente independiente.
+Monoamb
+23 mts
+Garage No
+IB-486932
+27-11-2024
+
+--------------------------
+
+[BOX 11] [9]
+3 N°567 e/ 43 y 44
+Departamento en Terminal de Omnibus, La Plata (Casco Urbano), Pdo. de La Plata
+$160.000 Expensas : $9000
+Departamento planta baja interno, compuesto de: cocina comedor, mesada con pileta, mueble bajo mesada, artefacto de cocina, termotanque, dormitorio, baño, ...
+1 Dorm
+32 mts
+Garage No
+IB-485604
+12-11-2024
+
+--------------------------
+
+[BOX 12] [9]
+607 e/ 11 bis y 12
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$160.000
+Departamento interno, planta baja, un dormitorio, cocina comedor y patio. Servicios compartidos.-
+1 Dorm
+32 mts
+Garage No
+IB-312380
+09-09-2024
+
+--------------------------
+
+[BOX 13] [9]
+58 e/ 7 y 8
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000 Expensas : $25000
+DEPARTAMENTO MONOAMBIENTE EN ALQUILER EXCELENTE UBICACIÓN ZONA UNIVERSITARIA
+Monoamb
+30 mts
+Garage No
+IB-488409
+13-12-2024
+
+--------------------------
+
+[BOX 14] [9]
+115 y 92
+PH en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$170.000
+Departamento A ESTRENAR PA de 2 Dormit con cocina comedor integral, baño completo, PB patio común.
+2 Dorm
+70 mts
+Garage No
+IB-465642
+16-03-2024
+
+--------------------------
+
+[BOX 15] [9]
+31 N°873 e/ 49 y 50
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000
+MONOAMBIENTE UBICADO EN CALLE 131 E/ 49 Y 50. PLANTA BAJA Y AL FRENTE.- AMBIENTE con mesada, bacha y toilette.18 METROS CUBIERTOS. Sobre Avenida 131 de...
+Monoamb
+18 mts
+Garage No
+IB-486685
+25-11-2024
+
+--------------------------
+
+[BOX 16] [9]
+(e) 117 Nro. 1733 entre 67 y 68 (pb° A)
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+Monoambiente en planta baja. Cuenta con estar comedor, cocina y baño. Sin expensas. ABSA $1.000 aproximadamente. CONTRATO POR 2 AÑOS CON AJUS...
+Monoamb
+25 mts
+Garage No
+IB-393989
+22-10-2024
+
+--------------------------
+
+[BOX 17] [9]
+29 n° 1233 Depto 115 e/ 57 y 58
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000 Expensas : $15000
+MONOAMBIENTE. MUY BUEN ESTADO. COCINA CON SPAR Y MUEBLES SOBRE Y BAJO MESADA. TERRAZA COMÚN. ASENSOR. SISTEMA DE CLIMATIZACIÓN POR TIRO BALAN...
+Monoamb
+28 mts
+Garage No
+IB-465694
+02-07-2024
+
+--------------------------
+
+[BOX 18] [9]
+78 bis N°435 e/ 3 y 4
+Departamento en Barrio Monasterio, Villa Elvira, Pdo. de La Plata
+$180.000 Expensas : $12000
+Monoambiente amplio, muy luminoso. Primer piso por escalera.
+Monoamb
+48 mts
+Garage No
+IB-479405
+03-09-2024
+
+--------------------------
+
+[BOX 19] [9]
+63 y 125
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+MODESTO, IDEAL ESTUDIANTE! MONOAMBIENTE SIN EXPENSAS! CERCANO A UNIVERSIDADES!!!
+Monoamb
+30 mts
+Garage No
+IB-114104
+02-09-2024
+
+--------------------------
+
+[|||||] 5.56%
+[BOX 0] [10]
+Departamento en Alquiler
+42 N°1027 e/ 15 y 16 > La Loma, La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+42 Y 15.- OTROS (23/38)C/BALCON,(32/9RESERVADO),(35/20)C/COCHERA,(43/12RESERVADO),(57/10)MONOAMBIENTE,(59/19)C/BALCON Y C/COCHERA(ALQUILERES DE 1DORMITORIO...
+1 Dorm
+44 mts
+Garage Optativa
+IB-486643
+27-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 1] [9]
+Departamento en Alquiler
+1 N°1311 e/ 59 y 60 > La Plata (Casco Urbano), Pdo. de La Plata
+$280.000
+MONICA BIANCHINI BIENES RAICES ALQUILA DEPTO de 1 DORMITORIO, cocina separada, baño completo con bañera, ventilación natural y lavadero cubierto. El ambie...
+1 Dorm
+35 mts
+IB-402215
+28-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 2] [9]
+Monoambiente en Alquiler
+53 e/ 11 y 12 > Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata
+$250.000
+Monoambiente al frente. Cocina separada con Lavadero. Baño completo Consultas al 2215446919
+Monoamb
+35 mts
+IB-489122
+23-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 3] [9]
+Departamento en Alquiler
+7 N°336 e/ 38 y 39 > Barrio Norte, La Plata (Casco Urbano), Pdo. de La Plata
+$520.000
+Departamento al frente de 1 dormitorio, posee calefaccion por radiadores, split frio calor en el estar comedor. 1 dormitorio con placard completo y baño. ...
+1 Dorm
+50 mts
+IB-488805
+17-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 4] [9]
+Monoambiente en Alquiler
+45 e/ 6 y 7 > Plaza Italia, La Plata (Casco Urbano), Pdo. de La Plata
+$350.000
+Monoambiente grande en alquiler calle 45 e/ 6 y 7 Próximo a Plaza Italia. zona de facultades La Plata, casco urbano. Cocina integrada al living comedor, ...
+Monoamb
+38 mts
+IB-486953
+27-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 5] [9]
+8 e/ 42 y 43
+Edificio en La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+Waingortin Servicios Inmobiliarios ALQUILA !! Importante edificio de planta baja, mas 3 pisos y terraza. En planta baja se encuentra un gran salón c...
+Monoamb
+635 mts
+Garage Si
+IB-480905
+04-12-2024
+
+--------------------------
+
+[BOX 6] [9]
+32 N°24 e/ 163 y 164
+Departamento en Melchor Romero, Pdo. de La Plata
+$95.000 Expensas : $3000
+Se alquila Departamento de un dormitorio en segundo piso por escalera dentro de complejo. (el complejo no posee el servicio de gas. El departamento no vi...
+1 Dorm
+25 mts
+Garage No
+IB-488560
+16-12-2024
+
+--------------------------
+
+[BOX 7] [9]
+608 N°873 e/ 12 y 13
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$150.000 Expensas : $6500
+MONOAMBIENTE EN ALQUILER, POSEE COCINA Y BAÑO. TERRAZA COMPARTIDA. NO SE PERMITEN MASCOTAS.
+Monoamb
+25 mts
+Garage No
+IB-482044
+30-09-2024
+
+--------------------------
+
+[BOX 8] [9]
+10 N°1521 e/ 63 y 64
+Departamento en Zona Universidades Centro, La Plata (Casco Urbano), Pdo. de La Plata
+$150.000 Expensas : $12000
+Planta baja frente, ambiente chico con cocina incorporada baño. PRECIO: $ 150.000 + absa , contrato por 2 años, ajuste trimestral por I.C.L. GASTOS Y...
+Monoamb
+25 mts
+Garage No
+IB-484082
+23-10-2024
+
+--------------------------
+
+[BOX 9] [9]
+1 y 75
+Departamento en Villa Elvira, Pdo. de La Plata
+$160.000
+MONOAMBIENTE EN ALQUILER ubicado en AV. 1 Y 75 25 mts2 aprox. espacio amplio cocina con bar...
+Monoamb
+25 mts
+Garage No
+IB-485316
+06-11-2024
+
+--------------------------
+
+[BOX 10] [9]
+26 e/ 34 y 35
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$160.000
+26 e/ 34 y 35 monoambiente a la calle en planta baja. Totalmente independiente.
+Monoamb
+23 mts
+Garage No
+IB-486932
+27-11-2024
+
+--------------------------
+
+[BOX 11] [9]
+3 N°567 e/ 43 y 44
+Departamento en Terminal de Omnibus, La Plata (Casco Urbano), Pdo. de La Plata
+$160.000 Expensas : $9000
+Departamento planta baja interno, compuesto de: cocina comedor, mesada con pileta, mueble bajo mesada, artefacto de cocina, termotanque, dormitorio, baño, ...
+1 Dorm
+32 mts
+Garage No
+IB-485604
+12-11-2024
+
+--------------------------
+
+[BOX 12] [9]
+607 e/ 11 bis y 12
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$160.000
+Departamento interno, planta baja, un dormitorio, cocina comedor y patio. Servicios compartidos.-
+1 Dorm
+32 mts
+Garage No
+IB-312380
+09-09-2024
+
+--------------------------
+
+[BOX 13] [9]
+58 e/ 7 y 8
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000 Expensas : $25000
+DEPARTAMENTO MONOAMBIENTE EN ALQUILER EXCELENTE UBICACIÓN ZONA UNIVERSITARIA
+Monoamb
+30 mts
+Garage No
+IB-488409
+13-12-2024
+
+--------------------------
+
+[BOX 14] [9]
+115 y 92
+PH en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$170.000
+Departamento A ESTRENAR PA de 2 Dormit con cocina comedor integral, baño completo, PB patio común.
+2 Dorm
+70 mts
+Garage No
+IB-465642
+16-03-2024
+
+--------------------------
+
+[BOX 15] [9]
+31 N°873 e/ 49 y 50
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000
+MONOAMBIENTE UBICADO EN CALLE 131 E/ 49 Y 50. PLANTA BAJA Y AL FRENTE.- AMBIENTE con mesada, bacha y toilette.18 METROS CUBIERTOS. Sobre Avenida 131 de...
+Monoamb
+18 mts
+Garage No
+IB-486685
+25-11-2024
+
+--------------------------
+
+[BOX 16] [9]
+(e) 117 Nro. 1733 entre 67 y 68 (pb° A)
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+Monoambiente en planta baja. Cuenta con estar comedor, cocina y baño. Sin expensas. ABSA $1.000 aproximadamente. CONTRATO POR 2 AÑOS CON AJUS...
+Monoamb
+25 mts
+Garage No
+IB-393989
+22-10-2024
+
+--------------------------
+
+[BOX 17] [9]
+29 n° 1233 Depto 115 e/ 57 y 58
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000 Expensas : $15000
+MONOAMBIENTE. MUY BUEN ESTADO. COCINA CON SPAR Y MUEBLES SOBRE Y BAJO MESADA. TERRAZA COMÚN. ASENSOR. SISTEMA DE CLIMATIZACIÓN POR TIRO BALAN...
+Monoamb
+28 mts
+Garage No
+IB-465694
+02-07-2024
+
+--------------------------
+
+[BOX 18] [9]
+78 bis N°435 e/ 3 y 4
+Departamento en Barrio Monasterio, Villa Elvira, Pdo. de La Plata
+$180.000 Expensas : $12000
+Monoambiente amplio, muy luminoso. Primer piso por escalera.
+Monoamb
+48 mts
+Garage No
+IB-479405
+03-09-2024
+
+--------------------------
+
+[BOX 19] [9]
+63 y 125
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+MODESTO, IDEAL ESTUDIANTE! MONOAMBIENTE SIN EXPENSAS! CERCANO A UNIVERSIDADES!!!
+Monoamb
+30 mts
+Garage No
+IB-114104
+02-09-2024
+
+--------------------------
+
+[||||||] 6.94%
+[BOX 0] [10]
+Departamento en Alquiler
+42 N°1027 e/ 15 y 16 > La Loma, La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+42 Y 15.- OTROS (23/38)C/BALCON,(32/9RESERVADO),(35/20)C/COCHERA,(43/12RESERVADO),(57/10)MONOAMBIENTE,(59/19)C/BALCON Y C/COCHERA(ALQUILERES DE 1DORMITORIO...
+1 Dorm
+44 mts
+Garage Optativa
+IB-486643
+27-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 1] [9]
+Departamento en Alquiler
+1 N°1311 e/ 59 y 60 > La Plata (Casco Urbano), Pdo. de La Plata
+$280.000
+MONICA BIANCHINI BIENES RAICES ALQUILA DEPTO de 1 DORMITORIO, cocina separada, baño completo con bañera, ventilación natural y lavadero cubierto. El ambie...
+1 Dorm
+35 mts
+IB-402215
+28-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 2] [9]
+Monoambiente en Alquiler
+53 e/ 11 y 12 > Plaza Moreno, La Plata (Casco Urbano), Pdo. de La Plata
+$250.000
+Monoambiente al frente. Cocina separada con Lavadero. Baño completo Consultas al 2215446919
+Monoamb
+35 mts
+IB-489122
+23-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 3] [9]
+Departamento en Alquiler
+7 N°336 e/ 38 y 39 > Barrio Norte, La Plata (Casco Urbano), Pdo. de La Plata
+$520.000
+Departamento al frente de 1 dormitorio, posee calefaccion por radiadores, split frio calor en el estar comedor. 1 dormitorio con placard completo y baño. ...
+1 Dorm
+50 mts
+IB-488805
+17-12-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 4] [9]
+Monoambiente en Alquiler
+45 e/ 6 y 7 > Plaza Italia, La Plata (Casco Urbano), Pdo. de La Plata
+$350.000
+Monoambiente grande en alquiler calle 45 e/ 6 y 7 Próximo a Plaza Italia. zona de facultades La Plata, casco urbano. Cocina integrada al living comedor, ...
+Monoamb
+38 mts
+IB-486953
+27-11-2024
+Anuncio promocionado
+
+--------------------------
+
+[BOX 5] [9]
+8 e/ 42 y 43
+Edificio en La Plata (Casco Urbano), Pdo. de La Plata
+Consulte
+Waingortin Servicios Inmobiliarios ALQUILA !! Importante edificio de planta baja, mas 3 pisos y terraza. En planta baja se encuentra un gran salón c...
+Monoamb
+635 mts
+Garage Si
+IB-480905
+04-12-2024
+
+--------------------------
+
+[BOX 6] [9]
+32 N°24 e/ 163 y 164
+Departamento en Melchor Romero, Pdo. de La Plata
+$95.000 Expensas : $3000
+Se alquila Departamento de un dormitorio en segundo piso por escalera dentro de complejo. (el complejo no posee el servicio de gas. El departamento no vi...
+1 Dorm
+25 mts
+Garage No
+IB-488560
+16-12-2024
+
+--------------------------
+
+[BOX 7] [9]
+608 N°873 e/ 12 y 13
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$150.000 Expensas : $6500
+MONOAMBIENTE EN ALQUILER, POSEE COCINA Y BAÑO. TERRAZA COMPARTIDA. NO SE PERMITEN MASCOTAS.
+Monoamb
+25 mts
+Garage No
+IB-482044
+30-09-2024
+
+--------------------------
+
+[BOX 8] [9]
+10 N°1521 e/ 63 y 64
+Departamento en Zona Universidades Centro, La Plata (Casco Urbano), Pdo. de La Plata
+$150.000 Expensas : $12000
+Planta baja frente, ambiente chico con cocina incorporada baño. PRECIO: $ 150.000 + absa , contrato por 2 años, ajuste trimestral por I.C.L. GASTOS Y...
+Monoamb
+25 mts
+Garage No
+IB-484082
+23-10-2024
+
+--------------------------
+
+[BOX 9] [9]
+1 y 75
+Departamento en Villa Elvira, Pdo. de La Plata
+$160.000
+MONOAMBIENTE EN ALQUILER ubicado en AV. 1 Y 75 25 mts2 aprox. espacio amplio cocina con bar...
+Monoamb
+25 mts
+Garage No
+IB-485316
+06-11-2024
+
+--------------------------
+
+[BOX 10] [9]
+26 e/ 34 y 35
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$160.000
+26 e/ 34 y 35 monoambiente a la calle en planta baja. Totalmente independiente.
+Monoamb
+23 mts
+Garage No
+IB-486932
+27-11-2024
+
+--------------------------
+
+[BOX 11] [9]
+3 N°567 e/ 43 y 44
+Departamento en Terminal de Omnibus, La Plata (Casco Urbano), Pdo. de La Plata
+$160.000 Expensas : $9000
+Departamento planta baja interno, compuesto de: cocina comedor, mesada con pileta, mueble bajo mesada, artefacto de cocina, termotanque, dormitorio, baño, ...
+1 Dorm
+32 mts
+Garage No
+IB-485604
+12-11-2024
+
+--------------------------
+
+[BOX 12] [9]
+607 e/ 11 bis y 12
+Departamento en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$160.000
+Departamento interno, planta baja, un dormitorio, cocina comedor y patio. Servicios compartidos.-
+1 Dorm
+32 mts
+Garage No
+IB-312380
+09-09-2024
+
+--------------------------
+
+[BOX 13] [9]
+58 e/ 7 y 8
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000 Expensas : $25000
+DEPARTAMENTO MONOAMBIENTE EN ALQUILER EXCELENTE UBICACIÓN ZONA UNIVERSITARIA
+Monoamb
+30 mts
+Garage No
+IB-488409
+13-12-2024
+
+--------------------------
+
+[BOX 14] [9]
+115 y 92
+PH en Aeropuerto, Villa Elvira, Pdo. de La Plata
+$170.000
+Departamento A ESTRENAR PA de 2 Dormit con cocina comedor integral, baño completo, PB patio común.
+2 Dorm
+70 mts
+Garage No
+IB-465642
+16-03-2024
+
+--------------------------
+
+[BOX 15] [9]
+31 N°873 e/ 49 y 50
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$170.000
+MONOAMBIENTE UBICADO EN CALLE 131 E/ 49 Y 50. PLANTA BAJA Y AL FRENTE.- AMBIENTE con mesada, bacha y toilette.18 METROS CUBIERTOS. Sobre Avenida 131 de...
+Monoamb
+18 mts
+Garage No
+IB-486685
+25-11-2024
+
+--------------------------
+
+[BOX 16] [9]
+(e) 117 Nro. 1733 entre 67 y 68 (pb° A)
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+Monoambiente en planta baja. Cuenta con estar comedor, cocina y baño. Sin expensas. ABSA $1.000 aproximadamente. CONTRATO POR 2 AÑOS CON AJUS...
+Monoamb
+25 mts
+Garage No
+IB-393989
+22-10-2024
+
+--------------------------
+
+[BOX 17] [9]
+29 n° 1233 Depto 115 e/ 57 y 58
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000 Expensas : $15000
+MONOAMBIENTE. MUY BUEN ESTADO. COCINA CON SPAR Y MUEBLES SOBRE Y BAJO MESADA. TERRAZA COMÚN. ASENSOR. SISTEMA DE CLIMATIZACIÓN POR TIRO BALAN...
+Monoamb
+28 mts
+Garage No
+IB-465694
+02-07-2024
+
+--------------------------
+
+[BOX 18] [9]
+78 bis N°435 e/ 3 y 4
+Departamento en Barrio Monasterio, Villa Elvira, Pdo. de La Plata
+$180.000 Expensas : $12000
+Monoambiente amplio, muy luminoso. Primer piso por escalera.
+Monoamb
+48 mts
+Garage No
+IB-479405
+03-09-2024
+
+--------------------------
+
+[BOX 19] [9]
+63 y 125
+Departamento en La Plata (Casco Urbano), Pdo. de La Plata
+$180.000
+MODESTO, IDEAL ESTUDIANTE! MONOAMBIENTE SIN EXPENSAS! CERCANO A UNIVERSIDADES!!!
+Monoamb
+30 mts
+Garage No
+IB-114104
+02-09-2024
+
+--------------------------
+
+[||||||||] 8.33%

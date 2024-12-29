@@ -4,21 +4,16 @@ from random import randint
 from time import sleep
 
 
-def getter_inmobusquedas(**kwargs):
+def getter_inmobusquedas(i=0):
     ua = UserAgent(os=["Windows", "Android", "iOS", "Linux"])
     random_ua = ua.getRandom
-    reqUrl = kwargs.get('endpoint')
-    if (not reqUrl):
-        # Obtener los valores de los argumentos
-        tipo = kwargs.get('tipo', 'departamento')
-        operacion = kwargs.get('operacion', 'alquiler')
-        localidad = kwargs.get('localidad', 'partido-la-plata')
-        min = kwargs.get('min', 0)
-        max = kwargs.get('max', 3000000)
-        pagina = kwargs.get('pagina', "")
-        # URL Semilla
-        reqUrl = f"{tipo}-{operacion}-{localidad}-{min}-{max}-pesos-pagina-{pagina}.html"
-    
+    args = {
+            'tipo': 'departamento',
+            'operacion': 'alquiler',
+            'localidad': 'partido-la-plata',
+        } 
+    endpoint = f"{args['tipo']}-{args['operacion']}-{args['localidad']}{'-pagina-{i}'if bool(i) else ''}.html" 
+        
 
     headersList = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
@@ -44,7 +39,7 @@ def getter_inmobusquedas(**kwargs):
     # random_sleep = randint(10,20)
     # print(f"[GET] {reqUrl} - DELAY:{random_sleep}")
     # sleep(random_sleep)
-    return  requests.request("GET", f"https://www.inmobusqueda.com.ar/{reqUrl}", data=payload,  headers=headersList)
+    return  requests.request("GET", f"https://www.inmobusqueda.com.ar/{endpoint}", data=payload,  headers=headersList)
 
     # reqUrl = "https://www.inmobusqueda.com.ar/resultados.armarurl.php?tipo=2&operacion=0&localidad=Todo+el+Partido+de+La+Plata%2C+Buenos+Aires&moneda=1&desde=0&hasta=3000000&provinciaid=0&partidoid=0&localidadid=0&barrioid=0&mlocalidad=68.0.0&radio=1&dorm=0&dorm2=0&ambientes=0&ambientes2=0&aptobanco=cualquiera&aceptapermuta=2&actualizado=1&publicado=0&garage=cualquiera&banos=cualquiera&piscina=cualquiera&tipoanunciante=2&expensashasta=&jardin=cualquiera&patio=2&orden=1&estado=99&estado2=99&antiguedad=200&antiguedad2=200&desdemts=&hastamts=&desdemtstotal=&hastamtstotal="
 
