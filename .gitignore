@@ -1,5 +1,16 @@
+# FRONT 
+node_modules/
+dist/
+public/
+build/  
+.idea/
+.vscode/
+package-lock.json
+
+
+
+# BACK
+
 venv/
 __pycache__/
-client/
-.vscode
-*.html
+.vscode/
