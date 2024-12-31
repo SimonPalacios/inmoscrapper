@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup, PageElement
 import cloudscraper
 import csv
 from getter import getter_argenprop, getter_inmobusquedas
+from Webs import InmoBusquedas
 
 
 def zonaprop(writer):
@@ -106,11 +107,13 @@ def inmobusquedas(writer: csv.writer):
     def __str__(self):
         return "Inmobusquedas"
 
-    def modelate(soup, writer:csv.writer):
+    def modelate(soup):
         boxes = soup.find_all('div', class_='resultadoContenedorDatosResultados')
-        for i, box in enumerate(boxes):
+        rows = []
+        for box in boxes:
             values = list(map(lambda x: " ".join(x.replace("\n", " ").
             split()), box.get_text("|\|", strip=True).split('|\|')))
+            url = box.find('a').get('href')
             if(values[-1] == "Anuncio promocionado"):
                 # La primera posicion tiene el tipo de propiedad
                 # La segunda posicion direccion '>' ubicacion
@@ -118,56 +121,37 @@ def inmobusquedas(writer: csv.writer):
                 descripcion = tipo+" "+descripcion
                 direccion, ubicacion = localizacion.split(">")
                 ambientes = resto[:-3]
-                pass
-            print(f"[BOX {i}] [{len(values)}]")
-            for value in values:
-                print(value)
-            print("\n--------------------------\n")
+            else:
+                direccion, ubicacion, precio, descripcion, *ambientes = values[:-2]
+                tipo, ubicacion = re.search(r'(?P<tipo>\w+)\sen\s(?P<ubicacion>.*)',ubicacion.lower()).groupdict().values()
+            # $170.000 Expensas : $25000
+            if('consulte' in precio.lower() ) :
+                expensas = "0"
+            else:
+                precio, expensas = re.search(r'\$(?P<precio>[\d\.?]+).*\$*(?P<expensas>[\d\.?]+)',precio.replace(" ", "")).groupdict().values()
+            rows.append([precio, expensas, direccion, ambientes, tipo, url, descripcion])
+        return rows
 
         
 
     print("Procesando Inmobusquedas...")
     
-    response = getter_inmobusquedas()
+    scraper = cloudscraper.CloudScraper()
+    reqUrl = "https://www.inmobusqueda.com.ar/departamento-alquiler-partido-la-plata"
+    response = scraper.get(reqUrl+".html")
+    print(f"Request {response.status_code}")
+    # response = getter_inmobusquedas()
     soup = BeautifulSoup(response.text, 'lxml')
-    modelate(soup, writer)
+    writer.writerows(modelate(soup))
     total_pages = int(soup.find_all('div', class_='paginas')[-1].text.replace('\n',''))
     for page_number in range(2, total_pages+1):
-        response = getter_inmobusquedas(page_number)
+        response = scraper.get(reqUrl+f"-pagina-{page_number}.html")
+        print(f"Request {response.status_code}")
         soup = BeautifulSoup(response.text, 'lxml')
-        modelate(soup, writer)
+        writer.writerows(modelate(soup))
         porc = 100*(page_number/total_pages)
         print(f"[{'|'*int(porc)}] {porc:.2f}%")
-        if page_number == 6: break
-
-
-"""
-# Obtenemos todas las cajas que tienen las propiedades
-        # El tipo de propiedad (departamento, casa, etc) en realidad posee la ubicacion si no existe la clase "tipodestacado".
-        direccion = box.find('div', class_='resultadoTipo')
-        link = direccion.find('a').get('href')
-        if 'tipodestacado' in direccion['class']:
-            tipo = direccion.text
-            direccion = box.find('div', class_='resultadoLocalidad').text
-        else:
-            direccion = direccion.text
-            tipo = box.find('div', class_='resultadoLocalidad').text
-        # Obtenemos el precio
-        precio_str: str = box.find('div', class_='resultadoPrecio').text
-        match_exp = re.search(r'.*Expensas\s?:\s?\$\s?([\d\.?]+)', precio_str)
-        match_prcio = re.search(r'\$([\d\.?]+)', precio_str)
-        precio = (match_prcio.group(
-            1) if match_prcio else precio_str).replace(".", "")
-        expensas = match_exp.group(1).replace(".", "") if match_exp else ""
-        # Obtenemos la descripcion
-        descripcion = " ".join(box.find(
-            'div', class_='resultadoDescripcion').text.replace("\n", "").split())
-        ambientes = box.find('div', class_='contenedordetalles').find_all(
-            'div', class_='rdBox')[0].text
-        # Escribir en un archivo CSV
-
-        return [precio, expensas, direccion, ambientes, tipo,  link, descripcion]
-"""
+        if page_number == 4: break
 
 if __name__ == '__main__':
     webs = {
@@ -176,12 +160,13 @@ if __name__ == '__main__':
         "3": [zonaprop],
         "4": [inmobusquedas, argenprop, zonaprop]
     }
+    
     try:
         i = os.sys.argv[1]
     except IndexError:
         print("No se ha especificado ningun argumento; 1 -> solo inmobusquedas, 2 -> solo argenprop, 3 -> zonaprop, 4-> todos")
         exit(1)
-    file_name = 'resultado.csv'
+    file_name = 'inmobusquedas.csv'
     mode = "a" if os.path.exists(f"{file_name}") else "x"
     file = open(file_name, mode)
     writer = csv.writer(file)
@@ -189,6 +174,13 @@ if __name__ == '__main__':
         writer.writerow(
             ['Precio', 'Expensas', 'Direccion', 'Ambientes', 'Tipo', 'Url',  'Descripcion'])
     print("Iniciando [key={}]".format(i))
+    InmoBusquedas(**{
+            'tipo': 'departamento',
+            'operacion': 'alquiler',
+            'localidad': 'partido-la-plata',
+        } ).retrieve_content(writer)
+    
+    exit()
     # input("Presione Enter para scrapear {}".format(webs[i].__str__()))
     for web in webs[i]:
         web(writer)
