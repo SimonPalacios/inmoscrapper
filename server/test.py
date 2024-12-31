@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup, PageElement
 import cloudscraper
 import csv
 from getter import getter_argenprop, getter_inmobusquedas
-from Webs import InmoBusquedas
+from server.Webs import InmoBusquedas
 
 
 def zonaprop(writer):
