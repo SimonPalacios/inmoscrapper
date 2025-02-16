@@ -1,7 +1,6 @@
 # FRONT 
 node_modules/
 dist/
-public/
 build/  
 .idea/
 .vscode/
