@@ -2,13 +2,11 @@
 
 *,html{
   scrollbar-width:thin;
-  scrollbar-color: #4A5568 #2D3748;
-  color:white;
 
   & article.layout{
     background-image: linear-gradient(
       90deg,
-      #2D3748 0%,
+      #3063bd 0%,
       #4A5568 100%
     );
     display:grid;

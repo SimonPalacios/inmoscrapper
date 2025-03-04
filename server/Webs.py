@@ -1,11 +1,8 @@
 import math
-import sys
-from time import sleep
-from typing import List
 from bs4 import BeautifulSoup
 import cloudscraper
 import re
-from tqdm import tqdm, trange
+from tqdm import trange
 format = '{percentage:3.0f}%|{bar}|{n_fmt}/{total_fmt}'
 
 def use(pattern, in_string):
@@ -104,16 +101,13 @@ class ZonaProp():
         return math.ceil(int(total_items_value) / self.items_per_page)
 
     def run(self,):
-        print("--- PROCESANDO ZONAPROP ---")
         response = self.getter()
         soup = BeautifulSoup(response, 'lxml')
         content = [self.modelate(soup)]
         N = self.retrieve_pages(soup)
-        with tqdm(total=N) as pbar:
-            for i in range(2, N+1):
-                content.append(self.modelate(
-                    BeautifulSoup(self.getter(i), 'lxml')))
-                pbar.update(1)
+        for i in trange(N, colour="blue", bar_format=format+' pages'):
+            content.append(self.modelate(
+                BeautifulSoup(self.getter(i), 'lxml')))
         return content, N
 
 
@@ -182,16 +176,13 @@ class ArgenProp():
         return int(soup.find_all('li', class_='pagination__page')[-2].text)
 
     def run(self):
-        print("--- PROCESANDO ARGENPROP ---")
         response = self.getter()
         soup = BeautifulSoup(response, 'lxml')
         content = [self.modelate(soup)]
         N = self.retrieve_pages(soup)
-        with tqdm(total=N) as pbar:
-            for i in range(2, N+1):
-                content.append(self.modelate(
-                    BeautifulSoup(self.getter(i), 'lxml')))
-                pbar.update(1)
+        for i in trange(N, colour="blue", bar_format=format+' pages'):
+            content.append(self.modelate(
+                BeautifulSoup(self.getter(i), 'lxml')))
         return content, N
 
 

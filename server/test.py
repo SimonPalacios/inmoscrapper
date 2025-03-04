@@ -1,6 +1,5 @@
 import os
 import csv
-
 from tqdm import tqdm, trange
 from Webs import InmoBusquedas, ArgenProp, ZonaProp
 
@@ -48,7 +47,7 @@ if __name__ == '__main__':
     try:
         i = os.sys.argv[1]
     except IndexError:
-        print("No se ha especificado ningun argumento; 1 -> solo inmobusquedas, 2 -> solo argenprop, 3 -> zonaprop, 4-> todos")
+        print("No se ha especificado ningun argumento; \n1 -> inmobusquedas \n2 -> argenprop \n3 -> zonaprop \n123-> todos")
         exit(1)
 
     file, writer = retrieve_writer()

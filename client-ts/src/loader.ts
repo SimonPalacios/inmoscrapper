@@ -33,6 +33,24 @@ export async function loader() {
     skipEmptyLines: true, // Ignora líneas vacías
     transform: transform, // Aplica una función de transformación a cada campo
   }).data;
+  
+  //Revisar el localstorage para saber si hay filtros aplicados. 
+  const values = localStorage.getItem('filtros')
+  let filtros = values?JSON.parse(values):null;
+  if(!filtros){
+    filtros = {
+      orden: "precio",
+      items: 10,
+      minPrecio: 0,
+      maxPrecio: 1e9,
+      minMts: 0,
+      maxMts: 1e9,
+      dormitorios: 0,
+      moneda: "$",
+    }
+    localStorage.setItem('filtros', JSON.stringify(filtros))
+  }
+
   // Retorna los datos parseados usando la función json de react-router-dom
-  return {data:parsedData, ok: true};
+  return {data:parsedData, filtros, ok: true};
 } 
